@@ -14057,6 +14057,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "objects/object_ik/gIronKnuckleFireTex_Overflow": {
+    "hash": "fef7a2280f799164c10d012db7685eca8b71bba4915e5c2c360cf5dd24f29288",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_MUSICHOUSE/Z2_MUSICHOUSETex_0106C0": {
     "hash": "13cd6389d3c992e9c051272fdf8b4900a6fdcfba48a46267b3cdbf59641044ed",
     "textureType": 9,
@@ -45755,17 +45761,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "parameter_static/gAmmoDigit1Tex": {
-    "hash": "28ff5410eec813a9fb851b60c59c15c4b6b354fb81f4b02f689e5292e067caaa",
-    "textureType": 8,
-    "textureWidth": 8,
-    "textureHeight": 8
-  },
   "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_035D98": {
     "hash": "8915334f8a79296ec28f9503fe7e3bb17ca75600b5cf84d321eea849e029dfcc",
     "textureType": 7,
     "textureWidth": 128,
     "textureHeight": 32
+  },
+  "parameter_static/gAmmoDigit1Tex": {
+    "hash": "28ff5410eec813a9fb851b60c59c15c4b6b354fb81f4b02f689e5292e067caaa",
+    "textureType": 8,
+    "textureWidth": 8,
+    "textureHeight": 8
   },
   "objects/object_test3/gKafeiBootTex": {
     "hash": "cbd811133ec469a3d62ae2e9d2b393c31badbbb34ecaa3236307dff40d6e89ae",
@@ -49844,6 +49850,12 @@
   "scenes/nonmq/Z2_CASTLE/Z2_CASTLE_room_02Tex_005338": {
     "hash": "325054cc23b2be1742bee15beb33e52f72758a4bdf97240c5588bfbf2f0977f2",
     "textureType": 8,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/gameplay_keep/gameplay_keep_Tex_00CA30_Overflow": {
+    "hash": "97e9a2a0ef1e4c6d8fa813c11c5bbea16915aa9768cbac060ffe9aa89f39a541",
+    "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -55970,6 +55982,12 @@
   "objects/object_fr/gFrogLowerBodyPatternTex": {
     "hash": "b7dd5db9b10523b87e845f4596c20372065868f8785ade84b2dd178a70c8c26f",
     "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/gameplay_keep/gEffIceFragmentTex_Overflow": {
+    "hash": "965edffbd08ed36153b2f664734c0516a8e2f3cd3c69727df4c25a23cb77c12b",
+    "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 32
   },
