@@ -5,7 +5,7 @@ Majora's Mask Reloaded is an Ultra HD texture pack for [GLideN64](https://github
 
 
 ## How to use O2R files
-Requires 2S2H `v1.1.0` or newer. O2R files go into the `mods` directory. The order in which mods are loaded can be modified by changing file names. Release files have the `alt/` path prepended, which requires unhiding the menu pressing `Escape` and enabling `Use Alternate Assets` while in-game. Alternatively, press `Tab` to toggle the textures.
+Requires 2Ship `v3.0.0` or newer. O2R files go into the `mods` directory. The order in which mods are loaded can be modified by changing file names. Release files have the `alt/` path prepended, which requires unhiding the menu pressing `Escape` and enabling `Use Alternate Assets` while in-game. Alternatively, press `Tab` to toggle the textures.
 
 
 ## Convert textures from PNG source
