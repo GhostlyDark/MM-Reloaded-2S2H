@@ -533,17 +533,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji93D0Tex": {
-    "hash": "0f7a089acf3cecc82a30b9089db70b2efc3a775a8608aa1983283d9f542ac428",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_02Tex_009318": {
     "hash": "7cf3ccb1cd641b0a0d81a0b2e4c9cbb855e3029b94ec99c11d6d0ce755e34ee7",
     "textureType": 8,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "kanji/gMsgKanji93D0Tex": {
+    "hash": "0f7a089acf3cecc82a30b9089db70b2efc3a775a8608aa1983283d9f542ac428",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_gg/object_gg_Tex_006C60": {
     "hash": "617ce57ee3b610f211925485eaa74f75e9f3e26bd6b0bf70b8e102c378409d1a",
@@ -779,6 +779,12 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
+  "objects/gameplay_field_keep/flower_bosskey_tex.rgba16": {
+    "hash": "55bed8f8a125b3283a4ab23c055f3abc6a9b6f2f56a304d507d3b0f2a961294b",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_bba/gBombShopLadyHairSkin2Tex": {
     "hash": "d0f73bd570197b53275bcc20f1ec65f41e48d695beaf78a21104d8b60bc1b25d",
     "textureType": 4,
@@ -851,14 +857,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji88CDTex": {
-    "hash": "febed085257ae5f1587c8125bdacfda12cd0a4801fa011b4df8aa25d7ccc0457",
+  "kanji/gMsgKanji90F9Tex": {
+    "hash": "5aacbfb7f177762b42e3a03201fda7e1c0f8a8b5d343db947a4a14d5ab921257",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji90F9Tex": {
-    "hash": "5aacbfb7f177762b42e3a03201fda7e1c0f8a8b5d343db947a4a14d5ab921257",
+  "kanji/gMsgKanji88CDTex": {
+    "hash": "febed085257ae5f1587c8125bdacfda12cd0a4801fa011b4df8aa25d7ccc0457",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -1427,15 +1433,15 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji9892EmptyTex": {
-    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2Tex_00E0C0": {
     "hash": "5dca9536e4be14b7eeb522a64623e508f793e4a3be1cad04ac4da2616f269236",
     "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "kanji/gMsgKanji9892EmptyTex": {
+    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
+    "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -1613,16 +1619,16 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "textures/icon_item_static/gPauseSavePromptENGTex": {
-    "hash": "d8debcb174bda22057ac395f10925ae69d7ab6b8ffb9594a041985f9c5f7ed13",
-    "textureType": 8,
-    "textureWidth": 152,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji916FTex": {
     "hash": "7c95ac55ae0000c8479c9c941f050c79db0db3cf635e6004b6483931e4050182",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "textures/icon_item_static/gPauseSavePromptENGTex": {
+    "hash": "d8debcb174bda22057ac395f10925ae69d7ab6b8ffb9594a041985f9c5f7ed13",
+    "textureType": 8,
+    "textureWidth": 152,
     "textureHeight": 16
   },
   "objects/object_mask_gero/gDonGeroMaskTLUT": {
@@ -2117,6 +2123,12 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01FD58": {
+    "hash": "5c21483e2a08e4fe68552a36cada1c6b62f08d55b1230fe689cf6dbe47165985",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "nes_font_static/gMsgCharAFFeminineOrdinalIndicatorTex": {
     "hash": "243fa4937ff07f758cd0689140d02d95a9d789b007e10e9c1e2d02665550d62c",
     "textureType": 5,
@@ -2441,6 +2453,12 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
+  "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_00Tex_004318": {
+    "hash": "eee5c9ec046af379f1231d8d2d42a6601f19bb74a15643b7b84565d837aff5ab",
+    "textureType": 8,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji835CKatakanaSoTex": {
     "hash": "21304155161df45b0b5af2e517457bc41e8cb7696f8539fdfc851e1d9c470707",
     "textureType": 5,
@@ -2458,12 +2476,6 @@
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
-  },
-  "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_00Tex_004318": {
-    "hash": "eee5c9ec046af379f1231d8d2d42a6601f19bb74a15643b7b84565d837aff5ab",
-    "textureType": 8,
-    "textureWidth": 32,
-    "textureHeight": 64
   },
   "objects/object_kaizoku_obj/object_kaizoku_obj_Tex_009108": {
     "hash": "967c8b5323e610f61eccfff8ca9092c8df4718c38a3513e6e121f501acfd8106",
@@ -3101,6 +3113,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01B258": {
+    "hash": "9a5073108356bd4511990537c03f6fbc4af463ec8e90600796ee5fee8be85759",
+    "textureType": 4,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "map_i_static/gMapIStatic36Tex": {
     "hash": "d24908b862b7999d69ca39f44759ff2b99cc4c4a60f3bb7aa18d87b707470a61",
     "textureType": 5,
@@ -3155,14 +3173,14 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "kanji/gMsgKanji8EDBTex": {
-    "hash": "61ac80b563605c4c1a59a9d034d7d29376f8998b61936175bf93889a17ad6943",
+  "kanji/gMsgKanji916ATex": {
+    "hash": "db8db558aac53e067f2a00a6cf2f460177f32e45ed83fb8d17af6c71baca3c99",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji916ATex": {
-    "hash": "db8db558aac53e067f2a00a6cf2f460177f32e45ed83fb8d17af6c71baca3c99",
+  "kanji/gMsgKanji8EDBTex": {
+    "hash": "61ac80b563605c4c1a59a9d034d7d29376f8998b61936175bf93889a17ad6943",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -3281,17 +3299,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji9478Tex": {
-    "hash": "3ad1b7ea7ec1ee4e3478ca8430166ad226677f505db279c160167ae24f540762",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00FCC0": {
     "hash": "c170994640c5d027c2ee85a3e7da6f010547f04724b6aa1b24ddcc4c0930027c",
     "textureType": 3,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji9478Tex": {
+    "hash": "3ad1b7ea7ec1ee4e3478ca8430166ad226677f505db279c160167ae24f540762",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8960Tex": {
     "hash": "935877b2580dfe470845a53f298df4c1bff91217e1e9bfd97ab3ea410f6bfc0c",
@@ -3767,6 +3785,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "misc/nintendo_rogo_static/metal2_copy": {
+    "hash": "7a5980439a178fb61341d377206581cbf8572851737b6f692b3b73167c9ac2fd",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_tl/gSnapperShellTex": {
     "hash": "96d630a0ad733d679321968f532721ad1be0643b05ba6a30c21d953de0bc42ba",
     "textureType": 2,
@@ -3947,6 +3971,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_022958": {
+    "hash": "6c355865fc9df2ecf754ee43179deef4d75dc39bbbb92d6416770c50b57dfa62",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_LAST_LINK/Z2_LAST_LINK_room_02Tex_001EE8": {
     "hash": "a7652970795700f4778cd5580efe9b5ac965019878fd9d5101aa9972c85dab90",
     "textureType": 4,
@@ -4085,6 +4115,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/gameplay_field_keep/flower_silver_tex.rgba16": {
+    "hash": "c0368ed83bd6c860f2f6832cfe72bb3fddad742275fdd885398789cf049f07cd",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8B49Tex": {
     "hash": "5b23aa8cc47b5ae0fe2b7c16803259ffbb1177629167805f598fe4d47690dc64",
     "textureType": 5,
@@ -4167,6 +4203,12 @@
     "hash": "9f88650a837e4cfd238218f3cdf666e071d96bb70f49be5895044c5f7d3fbc9f",
     "textureType": 4,
     "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_018258": {
+    "hash": "a7c975f4c613a3197118dcd7b41c21274e1ca179f4d24f7d8a81063bf7fe5de6",
+    "textureType": 3,
+    "textureWidth": 128,
     "textureHeight": 32
   },
   "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_008F10": {
@@ -4355,15 +4397,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_8ITEMSHOP/Z2_8ITEMSHOPTex_009470": {
-    "hash": "8d6d5566ab11ad484bbe3300d3cc0e58af9f784b6c0dd10e2fd809ea6c10a9ad",
-    "textureType": 4,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_KINSTA1/Z2_KINSTA1Tex_005D20": {
     "hash": "1bb81d094b3edb0599311c384ca416b3cf39cba05cc1a34f9e3bcb89f74dea72",
     "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_8ITEMSHOP/Z2_8ITEMSHOPTex_009470": {
+    "hash": "8d6d5566ab11ad484bbe3300d3cc0e58af9f784b6c0dd10e2fd809ea6c10a9ad",
+    "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -4420,6 +4462,12 @@
     "textureType": 5,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "objects/object_tsubo/PotFace_bosskey": {
+    "hash": "c7ebd4ec8c93f547ecb5a2a7cc723427d13d060461d099f96e9fcdf43ff190b7",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_dt/gDotourEyeSquintTex": {
     "hash": "7d635bd7256065615b76ba20cd108e92c4c7e5934f512cc1505320776e48d583",
@@ -5543,6 +5591,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "objects/object_kibako2/rando_crate_side": {
+    "hash": "0ca9136a685d37dc8e213e89704626f2af95af8ff1206539476e28a4275c6395",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji834CKatakanaKiTex": {
     "hash": "01b3aadeeadb541d50b56289ff899f417384d87404763db6e70bb48e7ed73a2a",
     "textureType": 5,
@@ -6527,6 +6581,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_016458": {
+    "hash": "c07d98e47c736b231693a00441f29f106a280ff9014011d8089e0f49cf159368",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_hakugin_obj/object_hakugin_obj_TLUT_009B40": {
     "hash": "72d3363ce010c0515bc491a70d02b9a52b51825f0dbaf60bcf50bf366b6e0787",
     "textureType": 2,
@@ -6538,6 +6598,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 17
+  },
+  "objects/object_tsubo/PotBase_major": {
+    "hash": "1fca371b2d7466f71f744e7df5a635fa583ae6f30984c48c1b64e7b38bf64ef5",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "schedule_dma_static_yar/gBombersNotebookPhotoShiroTex": {
     "hash": "038a9064a39815b197b67459955af7646f5d96ecc360796076dcbfdb356d24f3",
@@ -6617,17 +6683,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji9487Tex": {
-    "hash": "1a361f592bfb27cd5214bb0bfd09a442902523ff827f9ba72dee972660e7cfbc",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01F640": {
     "hash": "6d90da4bd8c2655eeaf4ae74603f2eb72f26e8a68d16fb382dbb6fb7cc5ddd30",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji9487Tex": {
+    "hash": "1a361f592bfb27cd5214bb0bfd09a442902523ff827f9ba72dee972660e7cfbc",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_11GORONNOSATO2/Z2_11GORONNOSATO2_room_00Tex_00DAF0": {
     "hash": "d10c19884a82699c30071453eae1bd71171e8877b519be11f304b0c2bc8a8866",
@@ -6652,6 +6718,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_taru/TokenBarrelSide": {
+    "hash": "0e715f61ddce31e3ebe0d7d04e3437a6319a25ba1cf2597a21d21479870bef24",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_tru/gKoumeJewelHolderTex": {
     "hash": "79252f3dd978663a00b7adcb841dd0bc636836f0b0071330aa573d74d8afcc46",
@@ -7049,17 +7121,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "do_action_static/gDoActionStopENGTex": {
-    "hash": "f7e8c2daff4f369a7ca4f6b7a0ed345285263c16f32c230603cc0bbd0ad7eeff",
-    "textureType": 7,
-    "textureWidth": 48,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINSTA1/Z2_KINSTA1TLUT_00AA40": {
     "hash": "b05c0c641983d1b4b4350138d903c4e727a25488c2a2fa50163fa7fa9ca2659d",
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "do_action_static/gDoActionStopENGTex": {
+    "hash": "f7e8c2daff4f369a7ca4f6b7a0ed345285263c16f32c230603cc0bbd0ad7eeff",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
   },
   "objects/object_mtoride/gWoodfallSceneryTreeBarkTex": {
     "hash": "a08551d1295ec4f2eef4e196d4aef2804d62bc7892dae6aa82ba1401fe041fdc",
@@ -7313,6 +7385,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_012958": {
+    "hash": "b8c44e12396a71af42700d835bacd522e3fc0395a4e32e425bd3c5861c6c9a52",
+    "textureType": 2,
+    "textureWidth": 8,
+    "textureHeight": 32
+  },
   "objects/object_dt/gDotourEyebrowLowTex": {
     "hash": "8629d08a46da8dea59258dcd697a1c69c2b6659ba79bdaa94398513eef2494a7",
     "textureType": 4,
@@ -7541,15 +7619,15 @@
     "textureWidth": 36,
     "textureHeight": 56
   },
-  "objects/object_bsb/object_bsb_Tex_00BC60": {
-    "hash": "28750fb93242a5f1dbc49eb2cbaaa542f574a347a4d24ae313711a8edd14ee54",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji8460HylianMuTex": {
     "hash": "a9e1a6e6b38563a7aa9bd8924fbb793ab1376e2aa52353a3cad2ce921580936a",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_bsb/object_bsb_Tex_00BC60": {
+    "hash": "28750fb93242a5f1dbc49eb2cbaaa542f574a347a4d24ae313711a8edd14ee54",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -7685,6 +7763,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako/minor_crate_top": {
+    "hash": "0e7a9892b5c412bdbb27be0b93beb629858afdd4c380eb27abbbdea29bead07b",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_RANDOM/Z2_RANDOM_room_03Tex_0063E0": {
     "hash": "f552c2027811d23e810e3f98376bb7e957438964d9b713049b63fd95b28d8332",
     "textureType": 8,
@@ -7769,17 +7853,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_bsmask/gRemainsGyorgSkinTex": {
-    "hash": "2c39ce5aaba0931e5046bc5a5d98a0f7f45e6aae7a5775e1d505ab3755dc25f5",
-    "textureType": 3,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "kanji/gMsgKanji94CBTex": {
     "hash": "f82f374486e0c7c6d2866e73969dbf1ccb45a27a1b8341a3b2bbddec0144e3df",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_bsmask/gRemainsGyorgSkinTex": {
+    "hash": "2c39ce5aaba0931e5046bc5a5d98a0f7f45e6aae7a5775e1d505ab3755dc25f5",
+    "textureType": 3,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_inibs_object/gTwinmoldArenaWallTopAndClawPillarInteriorTex": {
     "hash": "0d3ee40ae7311273d230f0ef89334de93274a88b28f32491885aaa39b5a71981",
@@ -7930,6 +8014,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_kibako/rando_crate_top": {
+    "hash": "e9b7b0c8e1973231ca21c3eeeb76792dfe911bc7be2215943f3b100b82257d44",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji8F63Tex": {
     "hash": "6f6ade4f443a8d35a0029575cd12daf93403c259e176bc8773d73d705c461103",
@@ -9305,6 +9395,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/object_tsubo/PotFace_standard": {
+    "hash": "4d2cb4df599271dd4b98d19db2d01f586a543158cc36fbe60a42581cf01f5eed",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji978BTex": {
     "hash": "157512c34647c068f5c2257244ed187233e91b6c88798f9220164f492fa2db8a",
     "textureType": 5,
@@ -9533,17 +9629,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji93A8Tex": {
-    "hash": "99ec33a0db13da5b557f30d6ac6ab143445a3b0747c5de3ec1f3d6d69113c81e",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00DBC0": {
     "hash": "5e81e01bf214e77ed994c0f9f40864096352057346989f48b11bd60cf627aa9d",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji93A8Tex": {
+    "hash": "99ec33a0db13da5b557f30d6ac6ab143445a3b0747c5de3ec1f3d6d69113c81e",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_ru2/gAdultRutoTex_4740": {
     "hash": "e0b834596244790f2fb48e1a8c100c88842e4906001287d8753adc17b3c91e2e",
@@ -9730,6 +9826,12 @@
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 8
+  },
+  "objects/object_tsubo/PotBase_minor": {
+    "hash": "3045b761881613902abf433bf696f43112ad7543776b1c57e4c40529b4dd34b3",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji9464Tex": {
     "hash": "d514a7b4c7751e74516fa125d4a388c639981a0ad2b1501f85d0a74ff960bcf5",
@@ -10193,6 +10295,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "objects/object_kibako2/mask_crate_side": {
+    "hash": "791032949d5cc9e0cce449d6fcf6f54aebc448c0f3fac8464ce4871c08d1ccd0",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_KYOJINNOMA/Z2_KYOJINNOMATex_00CDB0": {
     "hash": "c7739d3e466f8b3316b2f1a705a3c805e9f017f2017dbbe6e480633b13053316",
     "textureType": 7,
@@ -10241,17 +10349,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji82ECHiraganaSmallWaTex": {
-    "hash": "e1c64ebdd5f10975673b8d73437aa1c12873b13b7005a1e5f3215f9cfca74e2e",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00E2C0": {
     "hash": "8a81b96600dc52b8a3cbd62f4ca0838ebc9de391a1a9c7b0d3535ffb7dda3fcf",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji82ECHiraganaSmallWaTex": {
+    "hash": "e1c64ebdd5f10975673b8d73437aa1c12873b13b7005a1e5f3215f9cfca74e2e",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji94D5Tex": {
     "hash": "7187666afc24c00ddbc40be97bf2ecb2cd835e51df32987f95c690eac12a55ae",
@@ -10468,6 +10576,12 @@
     "textureType": 4,
     "textureWidth": 64,
     "textureHeight": 32
+  },
+  "objects/object_kibako2/fairy_crate_top": {
+    "hash": "550d84fba7af260b9ca138c33143b8932820172e0c71cf2b859bcf1c10736a06",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_ge1/gGerudoWhiteCleavageTex": {
     "hash": "922e89b5198e46bc86658dd8e6792e25afd34440b6a77741aba610d8f67b0557",
@@ -11243,6 +11357,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako/bosskey_crate_top": {
+    "hash": "286e9ee2817306a0aebc9d4328fd52256588ca03d1e23c403e49f76822931982",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji8CE8Tex": {
     "hash": "5552af8078277e7e00b75f15fd03e71ecba7e7694c4d626366bd8f1e5eedf304",
     "textureType": 5,
@@ -11525,6 +11645,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotBase_heart": {
+    "hash": "b69f7bbd82266c3d28b54199b2dd798ce133380f4b7c58318d663042d349a6a1",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_008690": {
     "hash": "93d305ba719260632f3342c247852ee1ddbd5208dc4ed94c5a1fae0e5fdf466e",
     "textureType": 2,
@@ -11801,17 +11927,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_bsmask/gRemainsOdolwaFaceTex": {
-    "hash": "a3a077c47ee44370b1b96f6b003e60b7294c828feb4f86761e0eeb7e8e7691e6",
-    "textureType": 3,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "kanji/gMsgKanji8EA1Tex": {
     "hash": "4ecb7cb897989bf3dffb2761c69a248a73b022167971d9711a2efbcf1b992608",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_bsmask/gRemainsOdolwaFaceTex": {
+    "hash": "a3a077c47ee44370b1b96f6b003e60b7294c828feb4f86761e0eeb7e8e7691e6",
+    "textureType": 3,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_MILK_BAR/Z2_MILK_BARTex_008550": {
     "hash": "55b9dd9fdc4f79b5f981f2cb0d2885a5c53bf0532cdb45bd158beefff3437950",
@@ -11993,16 +12119,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "do_action_static/gDoActionPunchENGTex": {
-    "hash": "a2d97cbad0f4df62d90fa64157736561ae30d22a816a832c409ee767e539d08c",
-    "textureType": 7,
-    "textureWidth": 48,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji8288LowercaseHTex": {
     "hash": "121503e07f239908add70cd354f8036933bd19fab6f30556592f2c21be851487",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "do_action_static/gDoActionPunchENGTex": {
+    "hash": "a2d97cbad0f4df62d90fa64157736561ae30d22a816a832c409ee767e539d08c",
+    "textureType": 7,
+    "textureWidth": 48,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_LAST_LINK/Z2_LAST_LINKTex_006090": {
@@ -12065,17 +12191,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_tl/gSnapperSpikeSkinTex": {
-    "hash": "f642f36712a5f0aac55ecfa1f8a1b5004f43c0a7f90e82f09c6a981d8ba9408a",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 8
-  },
   "scenes/nonmq/Z2_KINSTA1/Z2_KINSTA1TLUT_00AA60": {
     "hash": "b8d4c296b3fd32ab9848daa1a8ffc95eaa1a7bfe6be5c6778161276c2792a7a4",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_tl/gSnapperSpikeSkinTex": {
+    "hash": "f642f36712a5f0aac55ecfa1f8a1b5004f43c0a7f90e82f09c6a981d8ba9408a",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 8
   },
   "kanji/gMsgKanji8D6ATex": {
     "hash": "51dd080f1542cea758207917ef856cbde0a16d67fa520c0c54e05915b1c2982b",
@@ -12317,16 +12443,16 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji9459Tex": {
-    "hash": "ddb1d2328551541e7f72c9ae1953b8cb4bbe94c01b66b7022aaae1b2dd8417d7",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_03Tex_0092D0": {
     "hash": "695b99769041407e0ebbec7d2bd3a7ae3f3e197414869fed2f09e4a33a5956af",
     "textureType": 2,
     "textureWidth": 8,
+    "textureHeight": 16
+  },
+  "kanji/gMsgKanji9459Tex": {
+    "hash": "ddb1d2328551541e7f72c9ae1953b8cb4bbe94c01b66b7022aaae1b2dd8417d7",
+    "textureType": 5,
+    "textureWidth": 16,
     "textureHeight": 16
   },
   "kanji/gMsgKanji939BTex": {
@@ -12887,6 +13013,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotFace_minor": {
+    "hash": "eab3655f220e5a6ab493293853a92941ffac7f77dadf9ee939a8ff02a3c08518",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_moonend/object_moonend_TLUT_006D10": {
     "hash": "840e667dfad3e078e7c791b96cdf3c19180ca28235c7a2c64c26ef305033dbbc",
     "textureType": 2,
@@ -13403,17 +13535,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_bsb/object_bsb_Tex_00B760": {
-    "hash": "c9348ebbaa051d7669ded3256a4fd07fb7c9d8315f7584f2fc944b9e53930d76",
-    "textureType": 2,
-    "textureWidth": 8,
-    "textureHeight": 16
-  },
   "objects/object_boss02/gTwinmoldSnoutTex": {
     "hash": "95c28ca1a73e879f1d3116f721eb7a1cacd5eba63ef79f60d3806442f11b932b",
     "textureType": 3,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "objects/object_bsb/object_bsb_Tex_00B760": {
+    "hash": "c9348ebbaa051d7669ded3256a4fd07fb7c9d8315f7584f2fc944b9e53930d76",
+    "textureType": 2,
+    "textureWidth": 8,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8CABTex": {
     "hash": "4a2809f18a477a3a9e94e78bbcb1f169f501a9881c6b47c1d286a13274a1dbb8",
@@ -14039,6 +14171,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako2/fairy_crate_side": {
+    "hash": "9f5b4f0e04db36ed49f72713f0f9f43170384d77f3f390768d74f5b5e982f6a6",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji98F0EmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
@@ -14165,17 +14303,17 @@
     "textureWidth": 128,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_20SICHITAI2/Z2_20SICHITAI2_room_00Tex_01A638": {
-    "hash": "17103ec0feff28a4522cb36f4265f73cbee0cb940a0a7ed6b4201d6d0fb45b64",
-    "textureType": 5,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_03Tex_007ED0": {
     "hash": "8e29a375a46ebe9cb89e9c75e5dbafac3ca73dda8dabac6cd23366279ae6cfb5",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_20SICHITAI2/Z2_20SICHITAI2_room_00Tex_01A638": {
+    "hash": "17103ec0feff28a4522cb36f4265f73cbee0cb940a0a7ed6b4201d6d0fb45b64",
+    "textureType": 5,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji8375KatakanaBuTex": {
     "hash": "2605142a182dbcbda2143af00ebe8d81d129101a7d095a3fb25aa9eca2e8927c",
@@ -14188,6 +14326,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_012B58": {
+    "hash": "3e5997397ad5bd4c36b67e3053b48f1733c7b5efb028a100c85905f2dd364926",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_ah/object_ah_Tex_0066B0": {
     "hash": "a83279150aa74e371c16779c39da4ee719ebee2564c63288927f748dd141d00f",
@@ -14225,17 +14369,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_ani/gAniMouthTex": {
-    "hash": "9818162c2f8165b62dce08d0fb372505bf4da63c3c4539ba062aeaf62817f3b0",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_018B40": {
     "hash": "06bb6d8f1a17a33cf86d381ce35565ef60b6d2f7733f7fb4279653ce60b67032",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "objects/object_ani/gAniMouthTex": {
+    "hash": "9818162c2f8165b62dce08d0fb372505bf4da63c3c4539ba062aeaf62817f3b0",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8A69Tex": {
     "hash": "d4b91882048258a9d82f7e139121419a17ec1c13650cc8db75cfaa5f08c28a90",
@@ -14291,15 +14435,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_comb/gBeehiveFragmentTex": {
-    "hash": "a4fda080c4b462a86ef07973baa5481fdd8197a7df3b33876e01958cd3d19741",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji8376KatakanaPuTex": {
     "hash": "96b4cdf3f94ce917ce7c051e5d69b3e9becdb8c89a7096e9c851882d9ebc3d4e",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_comb/gBeehiveFragmentTex": {
+    "hash": "a4fda080c4b462a86ef07973baa5481fdd8197a7df3b33876e01958cd3d19741",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -14549,9 +14693,21 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotFace_mystery": {
+    "hash": "e55acf4cb67def265fc7ab2dffd1c08176fcac21e17d4d0e55d736e89060fdac",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_ds2n/gDs2nEyeOpenTex": {
     "hash": "802b6594c08d61cdab379279eac3c57bcbf6c90bef824471ff1be40b92bf7121",
     "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_ocarina_c_up_button/noise_tex": {
+    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
+    "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -14858,6 +15014,12 @@
   "kanji/gMsgKanji9271Tex": {
     "hash": "a1dde84f2e64fce2457178c33674d26154a9da1e946ee0f59baffc9d0da0c2b2",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_015358": {
+    "hash": "de60a20992c1c8f889eac330f9617f1a1600bcbbb1d03e836575eff86eae9290",
+    "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -15365,14 +15527,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji88E9Tex": {
-    "hash": "3d224af69029367a202b733673aae12159436fbeceb8b49c74a5ff272b04a933",
+  "kanji/gMsgKanji838BKatakanaRuTex": {
+    "hash": "05acd9d16936113bf4c15dd63d16483fd82be5573796e79890a605ec12fe9ab3",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji838BKatakanaRuTex": {
-    "hash": "05acd9d16936113bf4c15dd63d16483fd82be5573796e79890a605ec12fe9ab3",
+  "kanji/gMsgKanji88E9Tex": {
+    "hash": "3d224af69029367a202b733673aae12159436fbeceb8b49c74a5ff272b04a933",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -16013,17 +16175,17 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "objects/object_bjt/gToiletHandFingersTex": {
-    "hash": "44ec486525f3fce09f7271cb4da7ed673907a55916019e2ffe8733b456b2dfc2",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "misc/locerrmsg/gNotDesignedForSystemErrorTex": {
     "hash": "84dafee8dfb7a3581c3fdba17d885da68f1a27c456128ad6e0d5a90f778475c0",
     "textureType": 5,
     "textureWidth": 208,
     "textureHeight": 16
+  },
+  "objects/object_bjt/gToiletHandFingersTex": {
+    "hash": "44ec486525f3fce09f7271cb4da7ed673907a55916019e2ffe8733b456b2dfc2",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_bob/gHylianWoman2DressTex": {
     "hash": "16f7eab6d5a8e4506bd1bf5d12d35a8e3a197e172e079630fa9b59a4149de6a0",
@@ -16247,17 +16409,17 @@
     "textureWidth": 48,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_01C5D0": {
-    "hash": "9e87e544a2a16964dab990f2f4ffda55c53ab3697ab30fa1104fed3ce31981c1",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_013C40": {
     "hash": "1d1903c012e68a1aa74824ba0016c86d7640f25e9dfa96709c363ac483f62738",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_01C5D0": {
+    "hash": "9e87e544a2a16964dab990f2f4ffda55c53ab3697ab30fa1104fed3ce31981c1",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji8C4BTex": {
     "hash": "a1219f191f9088f4f656f5d51467453ce4ad34538824785275efa09eecf22c51",
@@ -16991,6 +17153,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_027E38": {
+    "hash": "f630fba83491505b04a09a2eaf751196cbd90258d5d0a7be4bbcadf3087db3f7",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_20SICHITAI/Z2_20SICHITAI_room_01Tex_010BF8": {
     "hash": "909d3b69cba880b546ea2e76061e6bc2cc43da806008fd751d038bf9c2965086",
     "textureType": 4,
@@ -17351,6 +17519,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/object_kibako2/heart_crate_top": {
+    "hash": "f3ee71f77e175e32b2cd72c1ba1789673491e56e90f0877be074d4569259ceaf",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji914BTex": {
     "hash": "6860ac021159b84b4f2196ba59642f685d00a7993baa312172ba914a383f4dea",
     "textureType": 5,
@@ -17404,6 +17578,12 @@
     "textureType": 3,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/object_tsubo/PotBase_smallkey": {
+    "hash": "dc96ef2551cbfd084c3cfbbf3fd869cf1376a8c7937e076b85f633a18b97234f",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_SEA/Z2_SEA_room_00Tex_00CBA8": {
     "hash": "dc348b827e46b0c4d4b08a0e130f4ff8735910113f96dcae6b2c56fead0eb9c0",
@@ -17729,6 +17909,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/nintendo_rogo_static/SoHShiny": {
+    "hash": "28e04430a4628854a19656c25e019134464a8a9986c9099ae43f82321db95622",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji8A8FTex": {
     "hash": "d442b73c7f74460db7d754eea4cbb9f12ac3ea6fd012c42ba15735593e5b919e",
     "textureType": 5,
@@ -17794,6 +17980,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_kibako2/bosskey_crate_side": {
+    "hash": "bfd5f4f984a2525292284ad472d0c27f70ce8428146a7a6c8dda2a8f0984935e",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji8B76Tex": {
     "hash": "df973ddb220b1e2fc302b5e62eed3c11d47d521a6cf2472dd03331f5c0ab3084",
@@ -17867,6 +18059,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_taru/BossKeyBarrelTop": {
+    "hash": "ab283073fd67ec32de0026f0167c5211d99ed3cff0dc1fa4465ad4dda23230c3",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji8373KatakanaPiTex": {
     "hash": "b29ecddd2688fae673f6c1e6fd2592b2d0af88feff436be8cc5cf2277adcdbc1",
     "textureType": 5,
@@ -17878,6 +18076,12 @@
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_028E38": {
+    "hash": "cf2da2c6b08370e07e0fd210577f894d47e1d1883e364df3c451cf4b0efe3297",
+    "textureType": 2,
+    "textureWidth": 8,
+    "textureHeight": 128
   },
   "kanji/gMsgKanji9650Tex": {
     "hash": "7cc0667dea4d86047ebfe62c17ebc1e25f64c2663d98529e6f905c15bb2f323b",
@@ -18238,6 +18442,12 @@
     "textureType": 8,
     "textureWidth": 80,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023398": {
+    "hash": "d335cf078dba03b1cdd8a9a495f7e5d1abce8d1985c183682f3ca06eb5d820a2",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_10YUKIYAMANOMURA2/Z2_10YUKIYAMANOMURA2_room_00Tex_0192C8": {
     "hash": "c5fcb52b85206eb9335cefe8d39a78f8456c217c514efa898e7b24cf53bfd320",
@@ -18850,6 +19060,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_022D58": {
+    "hash": "550c89744b1f82dba91432295634b203dd1c6536485617b53bc63e0dcc8aaea3",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_DEKU_KING/Z2_DEKU_KINGTLUT_0119C0": {
     "hash": "0fc54173862c107f52aa34c377af4c409a034e4e43da6c6133df021c70aeff9c",
@@ -19859,16 +20075,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_bsb/object_bsb_Tex_00B660": {
-    "hash": "d13a641a1f1250f482faf361b17a15a98e99a625de19f6cfd7ff9f6677119b5b",
-    "textureType": 2,
-    "textureWidth": 8,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji9060Tex": {
     "hash": "e4592525cfd4d7b16a4f865aab42420785c79ab6c146ca996cffc178ba2b0468",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_bsb/object_bsb_Tex_00B660": {
+    "hash": "d13a641a1f1250f482faf361b17a15a98e99a625de19f6cfd7ff9f6677119b5b",
+    "textureType": 2,
+    "textureWidth": 8,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGINTLUT_01B630": {
@@ -19888,6 +20104,12 @@
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_019A58": {
+    "hash": "9c3e375d172ce65d1c28d202eb57c7c88436b82b55aa1bd87dc8db9d7c093dda",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_ha/gDonkeyEyeTex": {
     "hash": "cfce9ab0a1fdb4f2dc8ae97b336d49145f3bf408c4752187bfb28ca83f3ab62f",
@@ -20212,6 +20434,12 @@
     "textureType": 7,
     "textureWidth": 128,
     "textureHeight": 16
+  },
+  "objects/object_kibako2/bosskey_crate_top": {
+    "hash": "286e9ee2817306a0aebc9d4328fd52256588ca03d1e23c403e49f76822931982",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji96CFTex": {
     "hash": "f25b2fe5a7edcc09e58eec37c7fb53edb757c77ba6a6e22096885e386c54dc1c",
@@ -21029,6 +21257,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01BA58": {
+    "hash": "9c70a54da3d87e3283fd4681eed27610440fad9ed20f64ac260aa6757182da63",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_bji/object_bji_Tex_004E70": {
     "hash": "196df88fa7b8756627d61a972612e1fdc00415dfdd4460cbe4176fe40c922b93",
     "textureType": 4,
@@ -21098,6 +21332,12 @@
   "objects/gameplay_keep/gameplay_keep_Tex_054AF0": {
     "hash": "5748835dab3c8cb0ac82a0d41e8c1b3899f193c9e0f059d6d68afb9266fb3442",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_field_keep/flower_heart_tex.rgba16": {
+    "hash": "f93bbd03cf787d0b82e7fac3c2ee1fa0c3503249cf2ac146fd1d6f40edb5233c",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -22217,6 +22457,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/object_tsubo/PotLip_smallkey": {
+    "hash": "779cb753ce42535c35faa5436cb5de1412e26987c0ebd0139411f7917d73b2a7",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_F01C/Z2_F01CTex_008890": {
     "hash": "b3f6600f8ffca43bb8c70ea7a44a358400b3ee0b22a53b49381c618ebc09e475",
     "textureType": 4,
@@ -22331,17 +22577,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "kanji/gMsgKanji88E1Tex": {
-    "hash": "1e6de526d3d512862ec0982dac77941e90701b87140993d3eaae5e20996905b9",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_026F68": {
     "hash": "794c792465d3cbf6c10c91688f301b76b7fb2a355b9ae6908e795f005c54e504",
     "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "kanji/gMsgKanji88E1Tex": {
+    "hash": "1e6de526d3d512862ec0982dac77941e90701b87140993d3eaae5e20996905b9",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8AE6Tex": {
     "hash": "ced3c6d4c81ee49f52f1bff5496ba886554adcb720976989aca9cc9228a156e4",
@@ -23111,6 +23357,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/object_taru/MinorBarrelTop": {
+    "hash": "d204610021ac6f106a0a20640faa1c37a6d55e8e533192ef04aab14e20a31307",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_01E650": {
     "hash": "3fc41d1266253b15286f2ede781faf0fde3a87b42df8aa5817dde68b8fabfb7e",
     "textureType": 5,
@@ -23291,14 +23543,14 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji89B9Tex": {
-    "hash": "24a7305b0f958feb28b2a5b1839391d9a7cb4c46667885610b46e27ee1add3a7",
+  "kanji/gMsgKanji914ETex": {
+    "hash": "eab30cbc8e93c3b2e1a80240b3ea02351f65d507b40df40346f50ac861357c89",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji914ETex": {
-    "hash": "eab30cbc8e93c3b2e1a80240b3ea02351f65d507b40df40346f50ac861357c89",
+  "kanji/gMsgKanji89B9Tex": {
+    "hash": "24a7305b0f958feb28b2a5b1839391d9a7cb4c46667885610b46e27ee1add3a7",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -23309,14 +23561,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8550Halfwidth1Tex": {
-    "hash": "eedf1e4197730b11cf892ab1c79cee015da9fd0f07fabee7e07f5d9520ce57a0",
+  "kanji/gMsgKanji915FTex": {
+    "hash": "181ce4a7c87a4bc142261faa5d40d64bc8fcb7dee6afa582f223c3028659997d",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji915FTex": {
-    "hash": "181ce4a7c87a4bc142261faa5d40d64bc8fcb7dee6afa582f223c3028659997d",
+  "kanji/gMsgKanji8550Halfwidth1Tex": {
+    "hash": "eedf1e4197730b11cf892ab1c79cee015da9fd0f07fabee7e07f5d9520ce57a0",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -23656,6 +23908,12 @@
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "objects/object_tsubo/PotFace_fairy": {
+    "hash": "7803207ef08f2190ab4749a692e37e8696f8b1cc06f67f17d0dfc531ce769981",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_mir_ray/object_mir_ray_Tex_000558": {
     "hash": "4f60285ea57dd7c8ceaa0052d700a8dd49c29c33a5d8919d9754bdb3a9b7b641",
@@ -24095,17 +24353,17 @@
     "textureWidth": 32,
     "textureHeight": 33
   },
-  "objects/object_cs/object_cs_Tex_00D520": {
-    "hash": "6225e9f7972dc2e9a17148b44b20518ba82ddf764c63cdb2f55d6a26e80c5305",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "kanji/gMsgKanji93CFTex": {
     "hash": "fa6b6fa1ccc5fdd87f0ef59dd76fc4a135ab6f12e89ab37c30bbc3fc7a0be2a0",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_cs/object_cs_Tex_00D520": {
+    "hash": "6225e9f7972dc2e9a17148b44b20518ba82ddf764c63cdb2f55d6a26e80c5305",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "misc/title_static/gFileSelTwinmoldsRemainsTex": {
     "hash": "58c33a7fa19411015c5099f4cdce730d9621d9ae33e9a0c7a6a1767830507df0",
@@ -24413,15 +24671,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8DD5Tex": {
-    "hash": "4b70c8732cbd477fda7585153bbd4faee1ca4effe4ad18a0df77d6c097e05344",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2TLUT_00FC40": {
     "hash": "3fd1824fd9806b44fb09efe6a55194da9c9dca67756008bb8f55b1ac93063337",
     "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "kanji/gMsgKanji8DD5Tex": {
+    "hash": "4b70c8732cbd477fda7585153bbd4faee1ca4effe4ad18a0df77d6c097e05344",
+    "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -24539,6 +24797,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023358": {
+    "hash": "b1a39d9da78a0bd543bec2807c1f725d3bddfb9bf55e9a11042cfea07efcfd84",
+    "textureType": 2,
+    "textureWidth": 4,
+    "textureHeight": 4
+  },
   "scenes/nonmq/Z2_YADOYA/Z2_YADOYA_room_00Tex_014E20": {
     "hash": "2c6f2f8fb6386532674b19d12b979e01dc4fce76cbd79ea3c16d52deb263a76e",
     "textureType": 2,
@@ -24550,6 +24814,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_ocarina_c_right_button/noise_tex": {
+    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji8E90Tex": {
     "hash": "20b6ce7b3d11b73ed9071937d0d9bb6719b6d6875f8b60a1481f10e5e7898ec5",
@@ -24623,17 +24893,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji82D0HiraganaHiTex": {
-    "hash": "af64b870a7424a8b1cadf0704b239f7829ffd34f49af08e2a6d9e539103c0223",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_02Tex_008058": {
     "hash": "02fe6b89cae385396a0fe47c3240594bf8c22f3d1966b1893f4763700461987a",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji82D0HiraganaHiTex": {
+    "hash": "af64b870a7424a8b1cadf0704b239f7829ffd34f49af08e2a6d9e539103c0223",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_20SICHITAI/Z2_20SICHITAI_room_00Tex_013FB8": {
     "hash": "590d7cf2baaa1287fa34825c77487422993fc601888895cfe5e01d526989620f",
@@ -24670,6 +24940,12 @@
     "textureType": 8,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_017258": {
+    "hash": "02c132889949baec52987add0fa215ec891d170543106ab437d27adef2119f18",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji97BCTex": {
     "hash": "e8f4dad7e1fe88035c2e40ec59a93b617dfc7cee2856596196d29174dfb04af5",
@@ -24743,17 +25019,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "icon_item_static_yar/gItemIconFierceDeitySwordTex": {
-    "hash": "5f6d0231f2249f9b293eb80ae01a4b97e5f355ac880b77de0a9a8cda92719e74",
-    "textureType": 1,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_017340": {
     "hash": "02c132889949baec52987add0fa215ec891d170543106ab437d27adef2119f18",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "icon_item_static_yar/gItemIconFierceDeitySwordTex": {
+    "hash": "5f6d0231f2249f9b293eb80ae01a4b97e5f355ac880b77de0a9a8cda92719e74",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_gi_reserve_b_01/gGiLetterToMamaStampTex": {
     "hash": "54dfde91f17bfaa7911bdd639654d8fa37a8684b6d6a6f7de0022cf55d02a90d",
@@ -24839,17 +25115,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_036F98": {
-    "hash": "9eebb59cc864238b3a696c4750c8f2317a00aca88fe0478e0247946f3c41bcfb",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2Tex_00EA00": {
     "hash": "4f39d68ccf96db240da50b1532736ba1a640f210356c42d3633d49b1931e01b7",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_036F98": {
+    "hash": "9eebb59cc864238b3a696c4750c8f2317a00aca88fe0478e0247946f3c41bcfb",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_milkbar/object_milkbar_Tex_000EC8": {
     "hash": "783677801d8e95333b8396480efe164076e7964b1cf7fa02cd30b69843b05973",
@@ -25955,6 +26231,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "objects/object_tsubo/PotLip_standard": {
+    "hash": "f5cbd7e8b3d22e02e4ca1fe9adfbd32c80367b139181c33817d7e6055af48eb9",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_fall/gMoonFaceTLUT": {
     "hash": "840e667dfad3e078e7c791b96cdf3c19180ca28235c7a2c64c26ef305033dbbc",
     "textureType": 2,
@@ -26015,15 +26297,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji854EHalfwidthSlashTex": {
-    "hash": "416624c6c7bc9a0c4586e55ba0a8881a564026aba4c44941637df86632994af0",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_001B10": {
     "hash": "be61abfb2f966e1854cbd090a031c52c401ebda25044edf08073fc73dc6e1ea1",
     "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "kanji/gMsgKanji854EHalfwidthSlashTex": {
+    "hash": "416624c6c7bc9a0c4586e55ba0a8881a564026aba4c44941637df86632994af0",
+    "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -26375,6 +26657,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/object_taru/BossKeyBarrelSide": {
+    "hash": "b15122ee8064d3104e66ed6be320cb59ee752b88805f85690f5ba65f8d6b38b1",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_boss02/gTwinmoldBlueSkinTex": {
     "hash": "0503228b407c3475cf21dbb2ef6ecc6b624719e13e92cef3bb78588ab18fd3e4",
     "textureType": 3,
@@ -26489,17 +26777,17 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
-  "parameter_static/gFishermanMinigameTorchIconTex": {
-    "hash": "6c47b1abfc89f686dbf26c25eb8f73d1693b9f38ac40bab348592328bcf881d5",
-    "textureType": 8,
-    "textureWidth": 16,
-    "textureHeight": 30
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2Tex_00E1C0": {
     "hash": "7eb661b6faa1c477cc960edb0e3a68281fcc72cd547e6e67cea7beca89b1bcc3",
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "parameter_static/gFishermanMinigameTorchIconTex": {
+    "hash": "6c47b1abfc89f686dbf26c25eb8f73d1693b9f38ac40bab348592328bcf881d5",
+    "textureType": 8,
+    "textureWidth": 16,
+    "textureHeight": 30
   },
   "objects/object_gi_mask16/gGiDonGeroMaskToesTex": {
     "hash": "1cc566f12709a9bb277a4b281bb313ba3d933d0b82e0385f6ea04066e8ae929a",
@@ -26765,12 +27053,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cne/gHylianYoungWomanHandTex": {
-    "hash": "9d57815b859802e5945eff67675a55aad795cc61d2e9af303ed9fd26b0fe6cad",
-    "textureType": 4,
-    "textureWidth": 8,
-    "textureHeight": 8
-  },
   "kanji/gMsgKanji97FCTex": {
     "hash": "212ed91d5b09e6cae4a936dbefae526fb6ccf3c28ac349a65584e21c8fc559bd",
     "textureType": 5,
@@ -26782,6 +27064,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_cne/gHylianYoungWomanHandTex": {
+    "hash": "9d57815b859802e5945eff67675a55aad795cc61d2e9af303ed9fd26b0fe6cad",
+    "textureType": 4,
+    "textureWidth": 8,
+    "textureHeight": 8
   },
   "scenes/nonmq/Z2_FISHERMAN/Z2_FISHERMANTex_008C30": {
     "hash": "ae0f8ea0c138ab1ce3d3660201ecf7ea14b46280e1ca7f60d0a9a3ce8f937a02",
@@ -26891,17 +27179,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "icon_item_field_static/gWorldMapAreaBox6Tex": {
-    "hash": "2cd40c2d680b55231a18f9aca530bd22d651c9a13fbca44b7eb94427e23037a5",
-    "textureType": 7,
-    "textureWidth": 48,
-    "textureHeight": 19
-  },
   "kanji/gMsgKanji82BFHiraganaChiTex": {
     "hash": "af35f7fda2962e707c38df1e909cc862e85a6a277679d64cfba3f0b8c936a232",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "icon_item_field_static/gWorldMapAreaBox6Tex": {
+    "hash": "2cd40c2d680b55231a18f9aca530bd22d651c9a13fbca44b7eb94427e23037a5",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 19
   },
   "objects/object_zl4/gDmZl4DressTLUT": {
     "hash": "cc2fc9b0db0c8cf729c6afebc5b8e0d1478d2a0e2bc4a767e3894d81bf086fe6",
@@ -26927,17 +27215,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "objects/object_ctower_rot/gClockTowerCenterCogBeamTex": {
-    "hash": "e70cff3c4ca63207a31751b942311a1922dddd449d5e66439bde0948bd1569b4",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/object_ahg/gAhgEyeClosedTex": {
     "hash": "880b52d0fab041cc40136c5440d0cdbedaeb78e80a7443b4ac6a84bbeaae86a3",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_ctower_rot/gClockTowerCenterCogBeamTex": {
+    "hash": "e70cff3c4ca63207a31751b942311a1922dddd449d5e66439bde0948bd1569b4",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_21MITURINMAE/Z2_21MITURINMAETex_009DD0": {
     "hash": "c2fc985796588049f814278aa919b8a7cbbd4a90b4b9863ee5526718e43c7bcc",
@@ -26981,6 +27269,12 @@
     "textureWidth": 32,
     "textureHeight": 128
   },
+  "objects/object_taru/MinorBarrelSide": {
+    "hash": "61e777489ee3916655b014a063d3d66d8c8a54160047c3af465721de122c0418",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_test3/gKafeiBody1TLUT": {
     "hash": "9e7e9c15fa32d97c43b56b4153d6408ded21aaab8c625be3c6c469e568d82307",
     "textureType": 2,
@@ -27017,16 +27311,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cne/gHylianYoungWomanTLUT": {
-    "hash": "7d3e1c5121e90e6ee73294f325b407ba34f4f1b422991efd0503796f2211d880",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "objects/object_botihasira/object_botihasira_Tex_001648": {
     "hash": "cf3480b05241770cdc5c54f1255a623edae4b48f3f44707bfdcf3c414198c4a4",
     "textureType": 2,
     "textureWidth": 32,
+    "textureHeight": 16
+  },
+  "objects/object_cne/gHylianYoungWomanTLUT": {
+    "hash": "7d3e1c5121e90e6ee73294f325b407ba34f4f1b422991efd0503796f2211d880",
+    "textureType": 2,
+    "textureWidth": 16,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_POSTHOUSE/Z2_POSTHOUSETLUT_0095B0": {
@@ -27160,6 +27454,12 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_017058": {
+    "hash": "c3970b37851876f56e8b1c51f03cb4aa6fc5b55734ba3784636e583b392118f1",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji85C1HalfwidthKatakanaTeTex": {
     "hash": "d7b80f1e4a0eb7dcdb7ec38d7f55b460d55e87d7c281584e996672007f7a25bd",
@@ -27335,16 +27635,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_00D340": {
-    "hash": "eacb7efe10bad2a5ef611999992bda10e67fce2321ab8c1cff908ae22c8c8d58",
-    "textureType": 2,
-    "textureWidth": 8,
-    "textureHeight": 4
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023440": {
     "hash": "b1a39d9da78a0bd543bec2807c1f725d3bddfb9bf55e9a11042cfea07efcfd84",
     "textureType": 2,
     "textureWidth": 4,
+    "textureHeight": 4
+  },
+  "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_00D340": {
+    "hash": "eacb7efe10bad2a5ef611999992bda10e67fce2321ab8c1cff908ae22c8c8d58",
+    "textureType": 2,
+    "textureWidth": 8,
     "textureHeight": 4
   },
   "kanji/gMsgKanji9395Tex": {
@@ -27455,6 +27755,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotFace_major": {
+    "hash": "7876e9ea63f52ae51592b8a47c3f4baec680ff96c3bae7454f9e033891ed7468",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_po/gPoeCloak1Tex": {
     "hash": "77ea5df768d7a4d76747309817c7c898157367b0ae57f510824c25813f6b48bc",
     "textureType": 2,
@@ -27548,6 +27854,12 @@
   "objects/object_bba/gBombShopLadySkirt2Tex": {
     "hash": "3918fc722402dcc4ab3993edfb4827a407408da03fb7e65321dd73ab416968cb",
     "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_field_keep/flower_gold_tex.rgba16": {
+    "hash": "b4cf9e06d6f6c08d8c8d934628494123e17baf060c54b35ff4caa67a33addd94",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -27929,6 +28241,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotFace_mask": {
+    "hash": "6b2667657f617be9e410172c1527f47a904f76492b6214b83ed20495ec801d77",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/gameplay_keep/gPinkDekuFlowerBaseLeafTex": {
     "hash": "ff43f222bcdbe7d9aa011bee2ea79034b2d8811e8bdc9ecf440f70483ee3e743",
     "textureType": 2,
@@ -28240,6 +28558,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_kibako2/junk_crate_top": {
+    "hash": "1220f6ba589828836524b08d8f1ecb85b4029531ce676d250119b32405da9121",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_ALLEY/Z2_ALLEYTex_006AE0": {
     "hash": "b5881254c6a174f2c8f2f082e15bf6908ce39bb9dcd6f2ce015b4879b7172bc4",
@@ -28840,6 +29164,12 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "objects/object_taru/JunkBarrelSide": {
+    "hash": "3fd4688bd96e7b74061e5272def46981ef0d97c2721cf29c13d282710fc992b8",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji8DCCTex": {
     "hash": "d6c4a9379b0205a553f1f426fddcae1d0e022969822cbd1fc86c2187c0fc7691",
@@ -29723,6 +30053,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_014B58": {
+    "hash": "096fa4716b9f90cf29b495727760793114211282679d13ad8ce56e9b0ef7ee2d",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/gameplay_keep/gEffHitmarkWhiteMetal4Tex": {
     "hash": "7261c583e32e82a76336df3c24e5240064ede07b62066c4077ce4c3e1e40e138",
     "textureType": 5,
@@ -29848,6 +30184,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_ocarina_a_button/noise_tex": {
+    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji88F0Tex": {
     "hash": "738f48e644a8ba28e0eff5d330289eccd8826acf69eb419beb495424df574327",
@@ -30035,6 +30377,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotLip_token": {
+    "hash": "0867f5e5cf1eed7dbdb304fb4dd29e7e60904fb653b2a7ec30cf721f15a3df33",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8CF8Tex": {
     "hash": "577342abc03000d016aaf5f475ae41f599d7f68a5da2b7b44c1f9b8d63d0965c",
     "textureType": 5,
@@ -30052,6 +30400,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/gameplay_field_keep/flower_fairy_tex.rgba16": {
+    "hash": "1ac81e83985da97f61a863476338e2a2bb8251866221e7c367aa4cf8ea8f3116",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "textures/parameter_static/gThreeDayClock3DSFinalHoursDigit0Tex": {
     "hash": "4bf0dbfd8643100d7f0ef29430b56a80680aa10066037c20c2b7b75ca981b1ab",
@@ -30142,6 +30496,12 @@
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "objects/object_taru/FairyBarrelSide": {
+    "hash": "491467f95ff800a0f57ccab97cf4bd348913b6c798f7ad0af19d2f909d7f8bf3",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_ma2/gCremiaMouthSlightSmileTex": {
     "hash": "d21ec1f2db4064187e3ab49c5b81f28e5d7224709e4d9ad295b5796577447fd6",
@@ -31325,6 +31685,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00F4C0": {
+    "hash": "7ad563b18e067413b609b5897ec6838a9271cbe14497edc40b41729ef5fba16a",
+    "textureType": 4,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji9779Tex": {
     "hash": "2172fdc8d9be3e7d1ded97917fd58dc53fa63ac715259e5fe262e14dd1f46272",
     "textureType": 5,
@@ -31342,12 +31708,6 @@
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
-  },
-  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00F4C0": {
-    "hash": "7ad563b18e067413b609b5897ec6838a9271cbe14497edc40b41729ef5fba16a",
-    "textureType": 4,
-    "textureWidth": 64,
-    "textureHeight": 32
   },
   "kanji/gMsgKanji8FEBTex": {
     "hash": "3dca75a82f81ade5421356106eb14619b5fc2a3a4a37f278a895656fcc8366f5",
@@ -31550,6 +31910,12 @@
   "misc/scene_texture_01/scene_texture_01_Tex_004C00": {
     "hash": "42f5e906c28b6e9caf81753b09942c5ced85cf2fb69f640adc95ef400f23abf2",
     "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_tsubo/PotBase_bosskey": {
+    "hash": "a7da7a8379ffef941cec694ee653885fd0605ab85c9a997e1ccc9eae1abf9747",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -32117,16 +32483,16 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "item_name_static/gItemNameFairyOcarinaJPNTex": {
-    "hash": "3586f6a0735d14ce1bf4d8f968ccba26d2379546bf2e5ff7ab45a26db379f58f",
-    "textureType": 7,
-    "textureWidth": 128,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji90F5Tex": {
     "hash": "8d8ee7701576f73de73d49566689665eee21cf8764681f10146994c1d57c85b5",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "item_name_static/gItemNameFairyOcarinaJPNTex": {
+    "hash": "3586f6a0735d14ce1bf4d8f968ccba26d2379546bf2e5ff7ab45a26db379f58f",
+    "textureType": 7,
+    "textureWidth": 128,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_35TAKI/Z2_35TAKITex_00CCC0": {
@@ -32663,17 +33029,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "scenes/nonmq/Z2_F01C/Z2_F01CTLUT_00E090": {
-    "hash": "d29f183171bfbae75c0c1951c414627e6ac459a8a89ef5096d6e2439441c9db9",
-    "textureType": 2,
-    "textureWidth": 4,
-    "textureHeight": 4
-  },
   "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_005BD0": {
     "hash": "8ec13eacd54dbaa4084248a2cf755424e48c3aaa4f1b33eb78f9b6436cffdb70",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_F01C/Z2_F01CTLUT_00E090": {
+    "hash": "d29f183171bfbae75c0c1951c414627e6ac459a8a89ef5096d6e2439441c9db9",
+    "textureType": 2,
+    "textureWidth": 4,
+    "textureHeight": 4
   },
   "objects/object_ik/gIronKnuckleGerudoSkinTex": {
     "hash": "c71e787d94d6b78f5c939338514bd629f808551b950acb03b7e01c1e6e7e4b3a",
@@ -32723,6 +33089,12 @@
     "textureWidth": 16,
     "textureHeight": 8
   },
+  "objects/object_taru/RandoBarrelSide": {
+    "hash": "3d9008a1919357ca4b5c55a34f220695cdb69640fb911602a04e780e52ecd5ab",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_zob/object_zob_Tex_00FEA0": {
     "hash": "c11628edd4786c83a3131bcb0f1201c08ab0d4ed049a3a15e82c8eaba8a54e98",
     "textureType": 2,
@@ -32739,6 +33111,12 @@
     "hash": "a2c4f3631a5c5dfcd26d259882bdf008c79b46873610f6f935150e5dafb83a7e",
     "textureType": 2,
     "textureWidth": 32,
+    "textureHeight": 64
+  },
+  "objects/object_taru/HeartBarrelSide": {
+    "hash": "f58a6581680c456cbaf79f685b71114b59b6693c0a6948705986184f1877e4c6",
+    "textureType": 2,
+    "textureWidth": 64,
     "textureHeight": 64
   },
   "scenes/nonmq/Z2_14YUKIDAMANOMITI/Z2_14YUKIDAMANOMITITex_0059F0": {
@@ -32865,6 +33243,12 @@
     "hash": "2cad9596c26162902edf84408e469b5f6e800964525655a31a46bca3b2b5bb79",
     "textureType": 3,
     "textureWidth": 32,
+    "textureHeight": 64
+  },
+  "objects/object_kibako/token_crate_top": {
+    "hash": "d6aad806adf3bd8ed17c01e5baeed0b69613e146d4302701bf80a54c7a49f0f2",
+    "textureType": 2,
+    "textureWidth": 64,
     "textureHeight": 64
   },
   "kanji/gMsgKanji8271CapitalRTex": {
@@ -33335,6 +33719,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_014C40": {
+    "hash": "096fa4716b9f90cf29b495727760793114211282679d13ad8ce56e9b0ef7ee2d",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_wiz/gWizrobeUnusedTex": {
     "hash": "ea3a2dfd1d6ef044958a0cc50d201e7ea065e8978b611884b0bd8fb118acf462",
     "textureType": 5,
@@ -33346,12 +33736,6 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
-  },
-  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_014C40": {
-    "hash": "096fa4716b9f90cf29b495727760793114211282679d13ad8ce56e9b0ef7ee2d",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "kanji/gMsgKanji96F2Tex": {
     "hash": "4f254b816f5bf7f0f558cc418fd26cec01f9c496e594098d2242e6922227516b",
@@ -33887,15 +34271,15 @@
     "textureWidth": 16,
     "textureHeight": 23
   },
-  "objects/object_cs/object_cs_Tex_00C520": {
-    "hash": "651db955382eae0fc6734e6501189a935c4505222c4601d7af5546735cc62855",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "objects/gameplay_keep/gStrayFairyLeftFacingHeadTex": {
     "hash": "daaa036d67c90d22d0cce33c392055ba5ca526dae8598c939a63e523c76691a4",
     "textureType": 8,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_cs/object_cs_Tex_00C520": {
+    "hash": "651db955382eae0fc6734e6501189a935c4505222c4601d7af5546735cc62855",
+    "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -33923,6 +34307,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "objects/object_kibako2/token_crate_top": {
+    "hash": "d6aad806adf3bd8ed17c01e5baeed0b69613e146d4302701bf80a54c7a49f0f2",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_030A98": {
     "hash": "86b164ebb392b414a8b932894b16b9b9cca4e3d1d5cdd44c92b9249868ff0668",
     "textureType": 4,
@@ -33946,6 +34336,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_taru/MajorBarrelSide": {
+    "hash": "a74b3d92dbd0a59c90edbb23e687cfbaf9f67a0c81271146b838329ccbdcda5b",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji8BF7Tex": {
     "hash": "1647aa70a3e58da65deeb3989c0132c928c37470199a3fb0966170e5f34e0cf2",
@@ -34189,6 +34585,12 @@
   },
   "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_01CA00": {
     "hash": "e081530eec6f81be8891b8b4e2587ee7f52e29b3e56529bfc71bb928345bc293",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_tsubo/PotBase_mask": {
+    "hash": "499d3f6887ce7dcf1e4620fac72791d280381b9c2ab54e21d6d244c85a2b1a8b",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
@@ -34486,6 +34888,12 @@
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/object_ability_swim/flippers": {
+    "hash": "522456b47ddb7376785fdbdcef4d10afc2984ad61f29d41806bd7eba622e15a6",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGIN_room_04Tex_01BB90": {
     "hash": "875b17e703e2146dd1a2bbdf975cbb58a0c690f559f80b09c2e0569da78aa551",
@@ -34991,6 +35399,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "objects/object_taru/MaskBarrelTop": {
+    "hash": "30901630b79735ec90f433a2af3644a2a9ef774c4a6510c2bacf9105a54609fb",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_OPENINGDAN/Z2_OPENINGDAN_room_00Tex_00A6B0": {
     "hash": "8b338e75ba769263219ac7fa3f9ca4e582c9e53dd81533caa0f4559d3d298bd8",
     "textureType": 4,
@@ -35204,6 +35618,12 @@
   "scenes/nonmq/Z2_22DEKUCITY/Z2_22DEKUCITY_room_02Tex_011768": {
     "hash": "fb460901cb341d2c7938821725571d8704d7900abbcc0f0521dd6e26174646d6",
     "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01DF58": {
+    "hash": "5a61ab0f19a930c4bd8121308277c79eb7211f23697040cba91bc5f9613fba25",
+    "textureType": 3,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -36047,6 +36467,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako2/minor_crate_top": {
+    "hash": "0e7a9892b5c412bdbb27be0b93beb629858afdd4c380eb27abbbdea29bead07b",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_17SETUGEN2/Z2_17SETUGEN2Tex_0045D0": {
     "hash": "28c97f846f7529194ab508c33daa0e9d9465ccf8936b72b3855ad1693b2155a6",
     "textureType": 2,
@@ -36287,6 +36713,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_014358": {
+    "hash": "7b0486084999de58dc6152edb00e2d1194232625cdc4afd0278b032b2f564843",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_drs/gWeddingDressMannequinVineTex": {
     "hash": "b3a521feeac6043538794ffb0332610a6c6b60371811b56d71d1f0763afca2a0",
     "textureType": 2,
@@ -36515,6 +36947,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/nintendo_rogo_static/_2shipBetaLogoFLAT": {
+    "hash": "1b3ffd841e6e6f378165c9780b6398dc57d2eb6edb06ba25b38b6b7e58f4df38",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_PIRATE/Z2_PIRATE_room_03Tex_0151F8": {
     "hash": "2c81fff43ce0e78bd915ddd0dedba3df7e086aa2b4591cd460a42a9c88edf989",
     "textureType": 4,
@@ -36689,6 +37127,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_016858": {
+    "hash": "c446dc93c8fab7b83c7c9353dceeeb813211bd5df1bc341fadced6bdfa8d94d6",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "objects/object_niw/gNiwCombTex": {
     "hash": "78998bbe8dd928cb9bed146a9a3bb941bf9ae6712d32b06b8e66d829e9082f61",
     "textureType": 2,
@@ -36743,17 +37187,17 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
-  "objects/object_bigokuta/gBigOctoEyeTex": {
-    "hash": "af9e695f5b1f5ce32780b2e7f59696dde1ddea35de2630ead9e6b63e995dbcfc",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_04Tex_003E98": {
     "hash": "c41b81c94fbb4421695230ccec0e9f8eafa0462a878d621d8ab7a21589dc0cc4",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/object_bigokuta/gBigOctoEyeTex": {
+    "hash": "af9e695f5b1f5ce32780b2e7f59696dde1ddea35de2630ead9e6b63e995dbcfc",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_thiefbird/gTakkuriStolenKokiriSwordGuardTex": {
     "hash": "c79585330a0c95213763c603fa51b189a1d21a1cd4a0587c22a1f3299f44f749",
@@ -37331,6 +37775,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/gameplay_field_keep/BushTex.rgba16": {
+    "hash": "a7d954aae2ca5f8c49846c4b7cd35a235efc0f8abc7779bad17ff9790bb1283c",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_harfgibud/gPamelasFatherHumanBeltTex": {
     "hash": "5dd4377e4ee458c2be438d748a6d85547cde682b8bced492de04ed5c1b37130e",
     "textureType": 4,
@@ -37595,17 +38045,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_015010": {
-    "hash": "8fa849d467f70a059cce43d8537afca558c982305914032d89bf3a940ad4de1e",
-    "textureType": 8,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_016940": {
     "hash": "c446dc93c8fab7b83c7c9353dceeeb813211bd5df1bc341fadced6bdfa8d94d6",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_TOWN/Z2_TOWNTex_015010": {
+    "hash": "8fa849d467f70a059cce43d8537afca558c982305914032d89bf3a940ad4de1e",
+    "textureType": 8,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8643HalfwidthHorizontalThinTex": {
     "hash": "e7544e8230b36c5a6b3ed7cc11bacf9f4f1fd2d6c51b40770bf316cd94d02c6d",
@@ -38195,6 +38645,12 @@
     "textureWidth": 128,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01ED58": {
+    "hash": "248d706cdfa6217db101cee39046e5ebfa12a010ea473d945bb754eccfaebee8",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji94C0Tex": {
     "hash": "aa4b8c7f908189b13eabf3d3006418d79d9abfec670158c7eafe9bf35372d799",
     "textureType": 5,
@@ -38377,6 +38833,12 @@
   },
   "objects/object_mask_yofukasi/object_mask_yofukasi_Tex_0006A0": {
     "hash": "8c925624b5ccc977c60bef30859772fb44615d5500a4edf3a4eb848047761b23",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_taru/RandoBarrelTop": {
+    "hash": "d1e8becb6b7966218ce15abe13feb2514ab8795e7e276d80dc0413dd56b47dac",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -39095,17 +39557,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_01C200": {
-    "hash": "c7faf571d54440646eae312cddd372cf03fd5be76db035f027d5f84a39915dce",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_025F68": {
     "hash": "9c9c7ed16a90985ff3c4604c9778e13aa15323e8dd036c67a948cfd426d6fffb",
     "textureType": 5,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_01C200": {
+    "hash": "c7faf571d54440646eae312cddd372cf03fd5be76db035f027d5f84a39915dce",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji9476Tex": {
     "hash": "bfe49ac54ff2a33dce3daaf38c046413b117be9f237cf6b805208a4384c9dc83",
@@ -39154,6 +39616,12 @@
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "objects/object_tsubo/PotLip_fairy": {
+    "hash": "1223fdf0e60ebcb402cda0ef78f96c5e04c5b9778cf162fc3c55fa255435f11a",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_ctower_rot/gClockTowerOrganMetalPiece4Tex": {
     "hash": "77396a297b0dc3a046433c8870d600f5b68f946cddc88bc95578baae3dccbb2b",
@@ -39353,6 +39821,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "objects/object_kibako/fairy_crate_top": {
+    "hash": "550d84fba7af260b9ca138c33143b8932820172e0c71cf2b859bcf1c10736a06",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji9260Tex": {
     "hash": "7d346b0cb60d0714fd410b166aca1e79358eaf53c5e225b2641acfec44453089",
     "textureType": 5,
@@ -39527,6 +40001,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotLip_bosskey": {
+    "hash": "3f80c570d80b90c65fbf72b9b56f0c4cfeb06e6f55eccc9636b849c16ef95e0f",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01CC40": {
     "hash": "f8621b2dc346a4ed694db6f0e3a2067da29b6c85dd1cdf6026fd4b40abd95797",
     "textureType": 4,
@@ -39616,6 +40096,12 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "objects/object_taru/MaskBarrelSide": {
+    "hash": "8320095db1bac4fc182eab9455bb899520c763ca12eac939f62adb20b85d9fd2",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji82CEHiraganaBaTex": {
     "hash": "948df7fab32b561412974b69bdfb6e8fea5964464449593a0e570d88604db673",
@@ -40355,6 +40841,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_019E58": {
+    "hash": "9fe6f2dad5e7a1d083df8f9d0af6e6c29972b69e7fc56af35da7afed3035823c",
+    "textureType": 4,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_BACKTOWN/Z2_BACKTOWNTex_007A40": {
     "hash": "916b61c7c8c71c53dc1f2c0246befd4654bebde5ee498b3ab16308941f114efa",
     "textureType": 3,
@@ -40396,6 +40888,12 @@
     "textureType": 8,
     "textureWidth": 64,
     "textureHeight": 31
+  },
+  "misc/nintendo_rogo_static/metal2": {
+    "hash": "43c59004282caf9c2040899262ecdf0b926ec61a4d4a6e6e2be1458f946a1adc",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_ICHIBA/Z2_ICHIBATLUT_015DC0": {
     "hash": "7c2d856f1b92459f7a7477e4d330cd1e0e9140ac370a891fa960cddafbc3fb2d",
@@ -41201,20 +41699,26 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01A658": {
+    "hash": "eb30a67bc94d789cf89247b612331f0af96c1e1274cede9be82ac094533943c2",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_TENMON_DAI/Z2_TENMON_DAI_room_01Tex_0124D8": {
     "hash": "57046a088d55bade0d0e66e45bd0e7cebb211d477dabcfe04d2d15ef0848643d",
     "textureType": 6,
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji88C6Tex": {
-    "hash": "85d0439c95c05446424556920b476a5f1602a5781fd76462c842d1941a3c4034",
+  "kanji/gMsgKanji8568HalfwidthCapitalITex": {
+    "hash": "994cc7108373fae4e872014442ab978dfe6986301972a759c7e239e1708aff8b",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8568HalfwidthCapitalITex": {
-    "hash": "994cc7108373fae4e872014442ab978dfe6986301972a759c7e239e1708aff8b",
+  "kanji/gMsgKanji88C6Tex": {
+    "hash": "85d0439c95c05446424556920b476a5f1602a5781fd76462c842d1941a3c4034",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -41248,6 +41752,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_020158": {
+    "hash": "649b4af060afbf090a042524a2dfd734135cdcec944279474aa06e10c85a817a",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_gi_mask16/gGiDonGeroMaskEyeTex": {
     "hash": "5c1aa96a4cc2c53593f285430f0b8e2988185b01b045bd4efe7021ea394417a0",
@@ -41677,6 +42187,12 @@
   },
   "scenes/nonmq/Z2_MITURIN_BS/Z2_MITURIN_BSTex_0017B0": {
     "hash": "5f74e0056a9f684f25c21f2afff94c83d2e02ffbfa831e4c5a481e7fb6fc93fa",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01CF58": {
+    "hash": "dcf1378277e9b45ce4d2197742bacdefff5fc72b01d0f4b1d21fb7a52d62ae44",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
@@ -43283,17 +43799,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00CD20": {
-    "hash": "198ad4a7d09b26576ca1ad00b69eb6436331b3584a0fd362c0d1366b9036edd4",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "kanji/gMsgKanji90D8Tex": {
     "hash": "8491547274962471b73aece92f0e3f4834b0cff9f5129ca264ce00509e82bff8",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_cs/object_cs_Tex_00CD20": {
+    "hash": "198ad4a7d09b26576ca1ad00b69eb6436331b3584a0fd362c0d1366b9036edd4",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_BOMYA/Z2_BOMYATex_000DB0": {
     "hash": "abb1d676bd7c259f7098726fd8997acca7bc12c8434ff3b5108b1e67be2c1765",
@@ -43390,6 +43906,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_tsubo/PotFace_token": {
+    "hash": "cf7a062e2b1ff896097b1f795f8daccbea117328e738dd5fa1ad89e8e19184fe",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_ma1/gRomaniMouthHangingOpenTex": {
     "hash": "2e4c6c930845342a70cc17d7aec6cac270e5c660ee657c040acb346a200dadf1",
@@ -43775,6 +44297,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/object_kibako2/smallkey_crate_side": {
+    "hash": "118ac13a74e339c1192d41c2ca88486b5ce9aeee0bdd68c249609d590cd90f6b",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji8FF6Tex": {
     "hash": "eb1c45badd81ecb3825dfc5b2a5650d684ef64223e68884ff987edbc2261bc34",
     "textureType": 5,
@@ -43900,6 +44428,18 @@
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_011D58": {
+    "hash": "22218d82a2b749991ed3b03c6465a7e1b6b698eaffb983ef1bfbbc9711ad7c68",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_kibako/junk_crate_top": {
+    "hash": "1220f6ba589828836524b08d8f1ecb85b4029531ce676d250119b32405da9121",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji96DETex": {
     "hash": "eb7053af439a34898491a9b009326a78b5aca90e7bc36c500275d08050b184a1",
@@ -44999,6 +45539,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako2/mask_crate_top": {
+    "hash": "1e49ab991828b2090de85599ce1333d319ede42ce5db29cd40bc3669163b8877",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_lbfshot/object_lbfshot_Tex_000340": {
     "hash": "778f48677f292519e76afb5e52e8208f76366b69d8163c53db018e4a7e252b0b",
     "textureType": 2,
@@ -45167,6 +45713,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01E958": {
+    "hash": "f48130834fa3048f959ea8b6d4db66abdfd0c0a87c25eca46f21681e101c38ad",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_MUSICHOUSE/Z2_MUSICHOUSETex_015700": {
     "hash": "39b4b428beb31db1b82c7df211d1c8a3ec65aa6e7e38fe45b1db2b9ab9832e12",
     "textureType": 6,
@@ -45221,12 +45773,6 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00E620": {
-    "hash": "bed373101cb2d3ee2afa61b90ad5d3285d6c3ef46d864a0fbfbc09774b0f114f",
-    "textureType": 6,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "kanji/gMsgKanji92DETex": {
     "hash": "ccf8ad37fc72bb2715435d0602b13d45d2be86375e5ba169c16d07c7a6ebb9ef",
     "textureType": 5,
@@ -45238,6 +45784,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_cs/object_cs_Tex_00E620": {
+    "hash": "bed373101cb2d3ee2afa61b90ad5d3285d6c3ef46d864a0fbfbc09774b0f114f",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/gameplay_keep/gEffBubble2Tex": {
     "hash": "c5e07dd90c7d9d9805e315af4b5213791ddd3ab4a227d8ba9bf312214e91c2ae",
@@ -45590,6 +46142,12 @@
   "kanji/gMsgKanji884CEmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_tsubo/PotLip_mask": {
+    "hash": "054e82ea119c663eb39439e40dd6f14523635bc45e18cd335b943586d634e1d8",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -46247,6 +46805,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_028638": {
+    "hash": "e0d0eb390f616c8abb96736c37ed459bd0e5e4b6b6657f5124591be129e4f345",
+    "textureType": 5,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji8275CapitalVTex": {
     "hash": "d92f31e31e670120cc1336e6bb40e5ba5588f46687a73dcf8f4ec5c3fa229c1d",
     "textureType": 5,
@@ -46361,15 +46925,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "textures/parameter_static/gArrowDown": {
-    "hash": "cf1bf6c75a13c22e5ac870a3bb7bb932b97c71202cbea8df3a12fe00297ebdbe",
-    "textureType": 9,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji8268CapitalITex": {
     "hash": "41d70651b487ba6916a9aae7acae398f8e1cfadaa134c24e82fd203c7b080d71",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "textures/parameter_static/gArrowDown": {
+    "hash": "cf1bf6c75a13c22e5ac870a3bb7bb932b97c71202cbea8df3a12fe00297ebdbe",
+    "textureType": 9,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -46589,6 +47153,12 @@
     "textureWidth": 16,
     "textureHeight": 8
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_015458": {
+    "hash": "3e438a473b8fcf2efb43d435e9d0d68c110f667b24d0da45a2c2ac1242d4ba28",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 16
+  },
   "objects/object_trt/gKotakeCollarNeckTex": {
     "hash": "d055b18c373a9ae1f481b95277fd569035313121a2a1eee6f716c5b14337a846",
     "textureType": 2,
@@ -46612,6 +47182,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_taru/SmallKeyBarrelTop": {
+    "hash": "e88950a993e1a0ea530216dc60797fb3148c1ea19cb8fae083ea2b789cc87d9d",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "misc/title_static/gFileSelOpenThisFileENGTex": {
     "hash": "1efe926cf05fec668733af3ccdf93fb1f325c9bf3a208c25dc75839753f6e2f6",
@@ -46739,17 +47315,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji87E8EmptyTex": {
-    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00C9C0": {
     "hash": "9dc97b5da1d0e4e3299f87e3c3aea863e8e5e14105865ad9eb4ab3585df88a6b",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji87E8EmptyTex": {
+    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/gameplay_keep/gameplay_keep_Tex_0447B0": {
     "hash": "146e31ebac5ecb6219c43d987aa256a3d2557c5722ea4d8f392853e279f09de0",
@@ -46906,6 +47482,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_triforce_piece_0/noise_tex": {
+    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_keikoku_demo/gKeikokuDemoDullYellowFlowersOnGrassTex": {
     "hash": "4494404efb1a597f20ba1ba3ecf6c177ecad922d633b101506e324404f8ce272",
@@ -47165,6 +47747,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotLip_major": {
+    "hash": "e93ff31e5ab8a06d5cb3755c0d131992cc53d8eb09d834871ee8f2b8f19d86b2",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_giant/gGiantShinTex": {
     "hash": "da55f1ddaf6aeb58dd6938bbe6ccd813a823e41c48dc40e46b0bca110718eee2",
     "textureType": 4,
@@ -47249,6 +47837,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/gameplay_field_keep/flower_bronze_tex.rgba16": {
+    "hash": "508a0b27a9b59f9ac26f93c8fcaf02861ff2ff803bc0cedf1c2b1845eaf86299",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_uch/gAlienHeadBackTex": {
     "hash": "91af6d07a0815cf73935ab3511f87e9f18fbfeaf271e8ce79b9ee22f58e1832e",
     "textureType": 4,
@@ -47327,17 +47921,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cne/gHylianYoungWomanSkinTex": {
-    "hash": "36d92d047d51df0cb29b5eddd53761c1b9f1d273ad2f94a9c7d9b3456ef73f51",
-    "textureType": 4,
-    "textureWidth": 8,
-    "textureHeight": 8
-  },
   "kanji/gMsgKanji9350Tex": {
     "hash": "866f93668ba32641f0cbd1dbe984eed3e1676bbcb6cccf147acba3054afdb31b",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_cne/gHylianYoungWomanSkinTex": {
+    "hash": "36d92d047d51df0cb29b5eddd53761c1b9f1d273ad2f94a9c7d9b3456ef73f51",
+    "textureType": 4,
+    "textureWidth": 8,
+    "textureHeight": 8
   },
   "kanji/gMsgKanji8560HalfwidthCapitalATex": {
     "hash": "f972aaa23a5482f4b9b60c71632206ce267b2ddd1451c74dffb76a0a35e76d60",
@@ -49559,17 +50153,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "scenes/nonmq/Z2_BOTI/Z2_BOTITex_00BBD0": {
-    "hash": "bf3164860850a7fe9984c37a65d8af0820fe967b173e94053b63cf567b1741b0",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2Tex_00AEC0": {
     "hash": "820eb56c50901bba6c6ed470b32ec227f6f5caaac92b89f6da35a03e0fd63326",
     "textureType": 5,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_BOTI/Z2_BOTITex_00BBD0": {
+    "hash": "bf3164860850a7fe9984c37a65d8af0820fe967b173e94053b63cf567b1741b0",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_milkbar/object_milkbar_Tex_008FA0": {
     "hash": "c5694d84ea3752d5f6405b9b1c18dd92561b86e104c43d054974612320916895",
@@ -50075,6 +50669,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "objects/object_tsubo/PotLip_heart": {
+    "hash": "9b33a7e1c4315ae643fb87995f6bbf586db344c4a0ccca5dd74be21cc29cbb63",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_eg/gEyegoreDarkBodyTex": {
     "hash": "cabe842a1bfaa9dd842b95467b58b934ee8f85b873b0eaa98bd6c6cf46f975f3",
     "textureType": 2,
@@ -50123,6 +50723,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_01Tex_00B2B0": {
+    "hash": "7cf3ccb1cd641b0a0d81a0b2e4c9cbb855e3029b94ec99c11d6d0ce755e34ee7",
+    "textureType": 8,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji944BTex": {
     "hash": "a259814f927e16ccb3a72a6c3bd7dc1511dbc203941c6b8cac515e9ed28a29e2",
     "textureType": 5,
@@ -50135,10 +50741,10 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_01Tex_00B2B0": {
-    "hash": "7cf3ccb1cd641b0a0d81a0b2e4c9cbb855e3029b94ec99c11d6d0ce755e34ee7",
-    "textureType": 8,
-    "textureWidth": 64,
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_026E38": {
+    "hash": "794c792465d3cbf6c10c91688f301b76b7fb2a355b9ae6908e795f005c54e504",
+    "textureType": 6,
+    "textureWidth": 32,
     "textureHeight": 64
   },
   "kanji/gMsgKanji9854Tex": {
@@ -50225,16 +50831,16 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "objects/object_cow/gCowEarTex": {
-    "hash": "dc92cd61f92e16eae8e7c333f80070c7e53b46f858bd605db677bcb933b0b51f",
-    "textureType": 4,
-    "textureWidth": 8,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji8269CapitalJTex": {
     "hash": "3df67d1e010ef9e03897af2202f7e54043526f17f1de2b6f6f2ec351482c4267",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_cow/gCowEarTex": {
+    "hash": "dc92cd61f92e16eae8e7c333f80070c7e53b46f858bd605db677bcb933b0b51f",
+    "textureType": 4,
+    "textureWidth": 8,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_BANDROOM/Z2_BANDROOM_room_03Tex_006460": {
@@ -50339,17 +50945,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_kin2_obj/gOceanSpiderHouseSkullkidPaintingTex": {
-    "hash": "4cfba2908821ab68d477dd5c0d2ca3235db3f40b7226bd69863a8a02a3f8835e",
-    "textureType": 3,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023460": {
     "hash": "6730e120c6e7c0cab61e0d361afd3b2b9565c22cac477a149465c266f68663ae",
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "objects/object_kin2_obj/gOceanSpiderHouseSkullkidPaintingTex": {
+    "hash": "4cfba2908821ab68d477dd5c0d2ca3235db3f40b7226bd69863a8a02a3f8835e",
+    "textureType": 3,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2Tex_00F040": {
     "hash": "50540d12b67e1a97c22bcee4ada22540725ac0049f93d8f160ca8fb27640ab17",
@@ -50393,17 +50999,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "icon_item_24_static_yar/gQuestIconHeartContainerTex": {
-    "hash": "ead8e111bd33b75dbe5eac257ac16f9eefece9ebfafaff94ebf121e5a34eef7c",
-    "textureType": 1,
-    "textureWidth": 24,
-    "textureHeight": 24
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01A740": {
     "hash": "eb30a67bc94d789cf89247b612331f0af96c1e1274cede9be82ac094533943c2",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "icon_item_24_static_yar/gQuestIconHeartContainerTex": {
+    "hash": "ead8e111bd33b75dbe5eac257ac16f9eefece9ebfafaff94ebf121e5a34eef7c",
+    "textureType": 1,
+    "textureWidth": 24,
+    "textureHeight": 24
   },
   "scenes/nonmq/Z2_INSIDETOWER/Z2_INSIDETOWER_room_00Tex_00A578": {
     "hash": "621c6a9c10c54a6a8331e596f00bfbe8c671d0a6793d3964fd99dc3e54497a5e",
@@ -50705,6 +51311,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "objects/object_kibako2/junk_crate_side": {
+    "hash": "bdfea6502cadb814a5ee774fac98e06e8d7be529de8de7b704ca77f700b2de97",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "kanji/gMsgKanji9556Tex": {
     "hash": "aee3fd31b961c3b0945a1f53e8ce83b5c43446caab2a248e88a60478cece7e89",
     "textureType": 5,
@@ -50722,6 +51334,12 @@
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 16
+  },
+  "objects/object_trap/ice_2": {
+    "hash": "97da7f7c49104ed0d49439e9f7a3619cbde979d8d3e0bde8337f7d93e1d4f8c3",
+    "textureType": 8,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_ik/gIronKnuckleFireTex_Overflow": {
     "hash": "fef7a2280f799164c10d012db7685eca8b71bba4915e5c2c360cf5dd24f29288",
@@ -50789,17 +51407,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "objects/object_ctower_rot/gClockTowerCeilingCogWoodMetalTLUT": {
-    "hash": "acb470e7bd47d72e314df2d981ff47fa78b4cd36097cdef5f2b95e53bc24a800",
-    "textureType": 2,
-    "textureWidth": 4,
-    "textureHeight": 4
-  },
   "kanji/gMsgKanji9575Tex": {
     "hash": "cadb1fd3cb88d5315e2057aae9137819adfaf3f79a3342adbb2acf367a52a306",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_ctower_rot/gClockTowerCeilingCogWoodMetalTLUT": {
+    "hash": "acb470e7bd47d72e314df2d981ff47fa78b4cd36097cdef5f2b95e53bc24a800",
+    "textureType": 2,
+    "textureWidth": 4,
+    "textureHeight": 4
   },
   "kanji/gMsgKanji8D9ATex": {
     "hash": "417fc0f4369615e94fecedcf95c01e6fcc248af7d6d1e2b57042ccc7a9c991fe",
@@ -51028,6 +51646,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_kibako/mask_crate_top": {
+    "hash": "1e49ab991828b2090de85599ce1333d319ede42ce5db29cd40bc3669163b8877",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_20SICHITAI2/Z2_20SICHITAI2Tex_0101F0": {
     "hash": "c9571a8b557f4ec85fdafe71e54d578d643e349ca25895fecdb84a0c729acf7b",
@@ -51899,6 +52523,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/gameplay_field_keep/LeafTex.rgba16": {
+    "hash": "0a0588448cd0d46ad0a9f2f101529bd61d98e9a53b901cba1cca9ccb0556d282",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8EB6Tex": {
     "hash": "190d4ab41e8f65e9ae71d32574969400f4286ccdc4385068a4cbc7662e168a99",
     "textureType": 5,
@@ -51971,17 +52601,17 @@
     "textureWidth": 128,
     "textureHeight": 64
   },
-  "kanji/gMsgKanji88C4Tex": {
-    "hash": "e5fe38fa437bb04882e6258ae7211f80109dfae90d7a4d5070da17f1cdf37121",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "icon_item_static_yar/gItemIconPictographBoxTex": {
     "hash": "e2115d63220b04a087d98cc285a3cce06ca98e46567c1005c8d7684c8497f927",
     "textureType": 1,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji88C4Tex": {
+    "hash": "e5fe38fa437bb04882e6258ae7211f80109dfae90d7a4d5070da17f1cdf37121",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_ikninside_obj/object_ikninside_obj_TLUT_004620": {
     "hash": "ec88397ac796fa989573e648a2abb5bf9a080dfba63451b5de013ac347c3a8a9",
@@ -52679,6 +53309,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/object_taru/FairyBarrelTop": {
+    "hash": "3260a9a25eb90350e27e69b61d068c465ef88940564da30755473bc5375aed62",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_8ITEMSHOP/Z2_8ITEMSHOPTex_001770": {
     "hash": "53890fb0734fb711368092376e9731b38d4b26df8acccbb66ef1fc3491f7b8fe",
     "textureType": 6,
@@ -52708,6 +53344,12 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "misc/nintendo_rogo_static/gLUSLogoTextTex": {
+    "hash": "66233790d563ac6e9625c83a14bcd8e8739868231b4a734bf0a959d4532b52b6",
+    "textureType": 6,
+    "textureWidth": 3072,
+    "textureHeight": 512
   },
   "item_name_static/gItemNameSunsSongJPNTex": {
     "hash": "7ded11cd1e937a638b3deb9bdfc4ee91cac179c9e293b7bc10fb8969c82f6c0b",
@@ -52768,6 +53410,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_023158": {
+    "hash": "4e9548eb06ca054cd852931a0c476d87770ce01e2e4aa5ff2cad4bfd75d4a5d4",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 32
   },
   "textures/parameter_static/gThreeDayClock3DSFinalHoursColonTex": {
     "hash": "d93b72a7b98c41f08fc396cc5b3498e83ea0def7b08da34872cec8c671dac74c",
@@ -52852,6 +53500,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_015858": {
+    "hash": "78a192b15c058df8837ab95f2e0cce7b7f6869dff8ea5f128cbaba291714812c",
+    "textureType": 2,
+    "textureWidth": 8,
+    "textureHeight": 128
   },
   "scenes/nonmq/Z2_00KEIKOKU/Z2_00KEIKOKUTex_036798": {
     "hash": "d541881795429ff9fc399a4f201019c3e2d1fb2282607656cf0112b81bc4e98b",
@@ -54281,6 +54935,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_tsubo/PotBase_standard": {
+    "hash": "7b41f5756bf4c798292755c17ddfe95fb2ca2e93b5e17c7781755c000a6b989e",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8C52Tex": {
     "hash": "ad86a1ab19eea791d3031d56d16b7a0d092b9e0858c987134d23fd191b1d489e",
     "textureType": 5,
@@ -55211,6 +55871,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/object_kibako2/smallkey_crate_top": {
+    "hash": "200bad75f3809867a374e2a31578db0c2ca78d4ac7b663d5efdea636f7c26a9d",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_mnk/object_mnk_Tex_004F10": {
     "hash": "70ff8a0a7c5ae4f963b315cde5bcb5c0334e08fc02c4a2f074b7907f9b55f76b",
     "textureType": 2,
@@ -55318,6 +55984,12 @@
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023378": {
+    "hash": "6730e120c6e7c0cab61e0d361afd3b2b9565c22cac477a149465c266f68663ae",
+    "textureType": 2,
+    "textureWidth": 4,
+    "textureHeight": 4
   },
   "scenes/nonmq/Z2_POSTHOUSE/Z2_POSTHOUSETex_004790": {
     "hash": "f09e1e736a9fe211caa5cd45aba7b2b9d1fddee762f9157fa91044edf1be9eff",
@@ -55535,17 +56207,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji83A5ButtonCUpTex": {
-    "hash": "0e71eecc0ec313d250e14959645f40b9035b0e37e7b4953fb7a8149df558c034",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_004AD0": {
     "hash": "c8095222382a9d32e750da2fa10a361f16b967e0fc9423e3e767e5f9a913b518",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji83A5ButtonCUpTex": {
+    "hash": "0e71eecc0ec313d250e14959645f40b9035b0e37e7b4953fb7a8149df558c034",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_fsn/gFsnHandTLUT": {
     "hash": "28284ed3e94f9ca5d6018a74a5174d67a5a123c71433b220423304f203b3c145",
@@ -56177,6 +56849,12 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01CB58": {
+    "hash": "f8621b2dc346a4ed694db6f0e3a2067da29b6c85dd1cdf6026fd4b40abd95797",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_dnt/gBusinessScrubHatTex": {
     "hash": "cb33135e02fe4f55b8a69be1dd89a6990de0bf70f42f7634ed44b8404bdbbd0a",
     "textureType": 2,
@@ -56234,6 +56912,12 @@
   "kanji/gMsgKanji8F8FTex": {
     "hash": "e8ceed30eaafef445efc9a665e095df42a733191fd600e1eaba65852e097da73",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_field_keep/flower_random_tex.rgba16": {
+    "hash": "942d78a02b8eeb8c5cf57fb33e05d7ceb3fb208791d82333b83576206b7de1ef",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -56525,16 +57209,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_fb/object_fb_Tex_0066A8": {
-    "hash": "6c899763add9b75e9f031f2211003070f9396c474194c8b21381864ce9493d43",
-    "textureType": 5,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_00Tex_005D18": {
     "hash": "d5ccbed9749c03cadefc00265be459758895759229c63c37fb29e780643f694d",
     "textureType": 8,
     "textureWidth": 32,
+    "textureHeight": 64
+  },
+  "objects/object_fb/object_fb_Tex_0066A8": {
+    "hash": "6c899763add9b75e9f031f2211003070f9396c474194c8b21381864ce9493d43",
+    "textureType": 5,
+    "textureWidth": 64,
     "textureHeight": 64
   },
   "schedule_static/gBombersNoteoobkTimeOfDayBoxTex": {
@@ -56879,17 +57563,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_INISIE_R/Z2_INISIE_R_room_11Tex_002ED8": {
-    "hash": "2e74e235ffb9d5bd46596e61bc57ea7dcca8b1c12e374317fae382089c65f7bf",
-    "textureType": 8,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_05TLUT_007D98": {
     "hash": "0fd5003cb0ec50e9cfb131e9b1194378dbec6bd4f9765ceea93aa7b8a802c4d2",
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "scenes/nonmq/Z2_INISIE_R/Z2_INISIE_R_room_11Tex_002ED8": {
+    "hash": "2e74e235ffb9d5bd46596e61bc57ea7dcca8b1c12e374317fae382089c65f7bf",
+    "textureType": 8,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "objects/object_lightswitch/object_lightswitch_Tex_000C20": {
     "hash": "638906a7ec6c2cc4cdb2df97f91c99dc34499ca0e080cb51e2d0a1d4a7256e21",
@@ -57893,6 +58577,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/object_tsubo/PotFace_smallkey": {
+    "hash": "0139ff1817d2e9c74957f385035b4edb8d87872c3a991b1399f2bd531fabd848",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_dnq/gDekuPrincessFaceTex": {
     "hash": "d1170dc14fbfcbf73f26972b1b528be2762ee98977bf451bf3ad929db21a7d57",
     "textureType": 2,
@@ -58211,6 +58901,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_013B58": {
+    "hash": "1d1903c012e68a1aa74824ba0016c86d7640f25e9dfa96709c363ac483f62738",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 64
+  },
   "scenes/nonmq/Z2_MUSICHOUSE/Z2_MUSICHOUSETex_00B000": {
     "hash": "3ecabcbd296745b6e408cf8d9063c86026daee5c4941e82272b9764b06c58433",
     "textureType": 6,
@@ -58228,6 +58924,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01AA58": {
+    "hash": "67592afe71abdf88473cb8f255e7f395584dc4d36d381cde845ecb792d65aad3",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji89DCTex": {
     "hash": "7f54a0f13e8fdf013c18ef8d3bee1c1e6a8fdd2301b46df1bd129c432bc42adb",
@@ -58403,6 +59105,12 @@
     "textureWidth": 32,
     "textureHeight": 8
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_018A58": {
+    "hash": "06bb6d8f1a17a33cf86d381ce35565ef60b6d2f7733f7fb4279653ce60b67032",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "objects/object_ahg/gAhgEarTex": {
     "hash": "118f5a112a89931195c4de0886f30eb1f36843e8a33d1458f50819e2e8cc1081",
     "textureType": 4,
@@ -58444,6 +59152,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_025E38": {
+    "hash": "9c9c7ed16a90985ff3c4604c9778e13aa15323e8dd036c67a948cfd426d6fffb",
+    "textureType": 5,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_SONCHONOIE/Z2_SONCHONOIE_room_01Tex_0055D0": {
     "hash": "01eedf29371cb99579e231bf2b84c44a90b623614e57fc45ab794d340f5891b8",
@@ -58925,17 +59639,17 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "kanji/gMsgKanji91DBTex": {
-    "hash": "18c3b7e0c8a886542d37e07759eb0d7c3dac5ba1e84b66325faadc1564b58b20",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_01Tex_00B0B0": {
     "hash": "ed5d921b13fa597214d369e0fb3419916239e8058e267c4c5e7ffae0127ea102",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji91DBTex": {
+    "hash": "18c3b7e0c8a886542d37e07759eb0d7c3dac5ba1e84b66325faadc1564b58b20",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_mask_zacho/object_mask_zacho_TLUT_000BC8": {
     "hash": "d89d64a665cc5db26ad2e2860ecc4255b810eff51e1a5abbaa5a18080b37c527",
@@ -58979,17 +59693,17 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
-  "overlays/ovl_Oceff_Wipe2/sEponaSongEffect2Tex": {
-    "hash": "00ff979845d75d95ffcc42ccca2ba435659f595824f2cce65bf286fdf5be8713",
-    "textureType": 5,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_0104C0": {
     "hash": "9ca3640e0f48cd6c0d84bc38a56eef3f53e2550d2b17907089befd8a69d4ed34",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "overlays/ovl_Oceff_Wipe2/sEponaSongEffect2Tex": {
+    "hash": "00ff979845d75d95ffcc42ccca2ba435659f595824f2cce65bf286fdf5be8713",
+    "textureType": 5,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_011D00": {
     "hash": "de083b9a1d5178e448d64ca97f4699d7b313976cd9e2922dde66a1d5aeabb364",
@@ -59831,6 +60545,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako2/rando_crate_top": {
+    "hash": "e9b7b0c8e1973231ca21c3eeeb76792dfe911bc7be2215943f3b100b82257d44",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_ik/gIronKnuckleHair2Tex": {
     "hash": "5b69795b63913360394d057f1e8baf34d07b46ed422faafca6645a4afc795b92",
     "textureType": 4,
@@ -60017,6 +60737,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako/major_crate_top": {
+    "hash": "488700e779b83d1c2b57fb47760e5e6bc14904841edd47826b5e37af43e59b1d",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_link_boy/object_link_boy_TLUT_000000": {
     "hash": "c8745d4536a22e2c3b0a0d0d29ae2a7b4a72d12ec0f012b75354671c77660b71",
     "textureType": 2,
@@ -60094,6 +60820,12 @@
     "textureType": 2,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "objects/object_taru/SmallKeyBarrelSide": {
+    "hash": "e646e6bc676c43021904b32aa841ecbf3c2db33286f92cd75c685d6068b88655",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_bh/gBhWingTex": {
     "hash": "91ce5ce5aa800dcf3dcb9b654384315f6b9524667999ef0ddcfe023f36bd69fe",
@@ -61295,6 +62027,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_027638": {
+    "hash": "f8ae17fdabcba5fe204711e6e59df679bee768bbc705881b0231a3730430497b",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "misc/scene_texture_05/scene_texture_05_Tex_004800": {
     "hash": "eba4ec6d4bf085f99650f9177bf20b2baf7520c26ff8866815e075c845fef29d",
     "textureType": 2,
@@ -61931,6 +62669,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "objects/gameplay_field_keep/flower_token_tex.rgba16": {
+    "hash": "008ed8c48f6003d63b23c48105df15a9e6358b5447a41c9bab135b750768a892",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_LOST_WOODS/Z2_LOST_WOODS_room_01Tex_005698": {
     "hash": "e7f718db2e68122b96a847a5cf8a5cd4d164e5b517d4f8ffc2184565c08f605b",
     "textureType": 5,
@@ -62032,6 +62776,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_triforce_completed/noise_tex": {
+    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_nwc/gNwcWingTex": {
     "hash": "44d4e7625bc97ee71733777436f0afedf4f08802c88f518b7cfb0c6ffa32cfaf",
@@ -63443,15 +64193,15 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cow/gCowUdderTex": {
-    "hash": "be5fa06dee995099c69b91988c3c511f483adf403e9b67bc069de790ce87efd8",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "kanji/gMsgKanji988FEmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_cow/gCowUdderTex": {
+    "hash": "be5fa06dee995099c69b91988c3c511f483adf403e9b67bc069de790ce87efd8",
+    "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -64343,17 +65093,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "kanji/gMsgKanji89F7Tex": {
-    "hash": "d31d282fe1631eed8d5e59e9b4c6a0cd9061ac53e8752f4250ba9c8a3c703698",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_00Tex_005318": {
     "hash": "fbf2da24ffd869066165891938c04a1e8d7f03a36df90425bad523fa9e7c56be",
     "textureType": 8,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji89F7Tex": {
+    "hash": "d31d282fe1631eed8d5e59e9b4c6a0cd9061ac53e8752f4250ba9c8a3c703698",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji85B8HalfwidthKatakanaKoTex": {
     "hash": "e76822f5f4c4fd60685b7b4d4b87de075f319386b6c8fe1abcf2d5ae7a28b7c8",
@@ -64625,17 +65375,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "icon_item_dungeon_static/gDungeonMap4FButtonTex": {
-    "hash": "68789cc7f034ea53a18fb38fdcc9beac110898120b7a7c7d31fc068dc396124c",
-    "textureType": 8,
-    "textureWidth": 24,
-    "textureHeight": 16
-  },
   "icon_item_field_static/gWorldMapGreatBayCloud2Tex": {
     "hash": "70e9722c84f67742e4014adb1d8000e9cb647bf90fc26b08257441cc3ff5ee3c",
     "textureType": 8,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "icon_item_dungeon_static/gDungeonMap4FButtonTex": {
+    "hash": "68789cc7f034ea53a18fb38fdcc9beac110898120b7a7c7d31fc068dc396124c",
+    "textureType": 8,
+    "textureWidth": 24,
+    "textureHeight": 16
   },
   "objects/object_link_zora/object_link_zora_Tex_005A00": {
     "hash": "746ed08f2b55ea59eb62d53e066e0e579ac6225b54207e2c79d6b347f1a8a010",
@@ -65519,6 +66269,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01F558": {
+    "hash": "6d90da4bd8c2655eeaf4ae74603f2eb72f26e8a68d16fb382dbb6fb7cc5ddd30",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "map_grand_static/gMapGrandStatic11ETex": {
     "hash": "e12a8e510dc8dbfb997234bdd20ac4dda592fd62b74014a3ccb3ad7421c445bf",
     "textureType": 5,
@@ -65993,6 +66749,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako2/token_crate_side": {
+    "hash": "414bb68114a6d458204cf7080cf25154b7b9f2678c6743c2765b5a095adb8da4",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_mnk/object_mnk_Tex_001E20": {
     "hash": "2299855038e75485ef6f972f324d9b377cea5679b446d7e3bb9130921d79c09d",
     "textureType": 4,
@@ -66101,17 +66863,17 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "objects/object_tl/gSnapperSpikeTex": {
-    "hash": "64ea7e32f5062491169d475c08f1cbfeebcfd98d01356be0d6cb379d15cfc473",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_002590": {
     "hash": "18aaa3f9a016041f87cf30ffc3084465e3aba8769aaeadfff41a1fda51229d50",
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "objects/object_tl/gSnapperSpikeTex": {
+    "hash": "64ea7e32f5062491169d475c08f1cbfeebcfd98d01356be0d6cb379d15cfc473",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/gameplay_keep/gSpinAttackCharging1Tex": {
     "hash": "5c10be970ef2e914d4c122b93201c4de978737616156eca259ae2c182f38c127",
@@ -66941,6 +67703,12 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
+  "objects/object_kibako2/major_crate_side": {
+    "hash": "14c3e5d1e1f6d1f600c2ccb4cd258f112bfa3803ca22a248d5c7d8f84558f8cb",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_dt/gDotourEyebrowHighTex": {
     "hash": "d7b8a8f8eab3ff45154b083b0e8455438dafd3e69f6f6c184f974a96c864f64b",
     "textureType": 4,
@@ -67475,6 +68243,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_kibako/smallkey_crate_top": {
+    "hash": "200bad75f3809867a374e2a31578db0c2ca78d4ac7b663d5efdea636f7c26a9d",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "map_i_static/gMapIStatic09Tex": {
     "hash": "a9ab90d79a2a36ed6d07d09b86a40ea0166eda13498be7f0574bbd6e95720a91",
     "textureType": 5,
@@ -67552,6 +68326,12 @@
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01D758": {
+    "hash": "d587cc372a6fad9c1ccf9202939b1d404991fabb8f83df76927bcfbe453594d2",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_KINSTA1/Z2_KINSTA1_room_00Tex_002010": {
     "hash": "bd19ff27a320f12bfbe57585dbac43e22d7983d2a0380f9ed77d5eeb249e4133",
@@ -67979,6 +68759,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_016058": {
+    "hash": "a7339eeb78ed6df55eda616e33b5b5b09d0da4dd027adf2333a4bcbb67d3d28a",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_zm/object_zm_Tex_009A68": {
     "hash": "125f32555d82853f5bb44b653bd3c6b422d4227b00739d00b7de9f76ed506558",
     "textureType": 2,
@@ -68213,6 +68999,12 @@
     "textureWidth": 8,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01C258": {
+    "hash": "81c535cbd1670da51abd6b6f286f618057ca73f817d9f61187403c0f42247620",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji95D2Tex": {
     "hash": "53103d134ff44b7b75c310f811cc0fee7bc2d1587cb010a2e8d644610c8ed3ca",
     "textureType": 5,
@@ -68273,6 +69065,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_013358": {
+    "hash": "eccb2c9c68be694ae96041f72269797e9a5c8a515d1f459595260bffa5966807",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji8B9CTex": {
     "hash": "d2fa1416b8ca519efaa76eb9719804c46069c744e2fdef0cb1b92338ee74f246",
     "textureType": 5,
@@ -68315,17 +69113,17 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
-  "objects/object_numa_obj/object_numa_obj_Tex_0131B0": {
-    "hash": "52fc2c4943a196c34eaf55c45375235346c82828f821cefb03976a0b03c7696a",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_022A40": {
     "hash": "6c355865fc9df2ecf754ee43179deef4d75dc39bbbb92d6416770c50b57dfa62",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 16
+  },
+  "objects/object_numa_obj/object_numa_obj_Tex_0131B0": {
+    "hash": "52fc2c4943a196c34eaf55c45375235346c82828f821cefb03976a0b03c7696a",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_DEKU_KING/Z2_DEKU_KINGTex_0111A0": {
     "hash": "93d1d937e4534a18fdf6d8be15f74d1aadbcb349b83c527ab64899723437066c",
@@ -68741,16 +69539,16 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_cs/object_cs_Tex_00C120": {
-    "hash": "1e93c70f6f168f2b7e05b0c50cf6de17510a70de8c56235661c4959b9b7943d6",
-    "textureType": 6,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "do_action_static/gDoActionExplodeENGTex": {
     "hash": "2085686959dae084b6de3be45d84ff343e151140e03a7cb16d562a8b453c9546",
     "textureType": 7,
     "textureWidth": 48,
+    "textureHeight": 16
+  },
+  "objects/object_cs/object_cs_Tex_00C120": {
+    "hash": "1e93c70f6f168f2b7e05b0c50cf6de17510a70de8c56235661c4959b9b7943d6",
+    "textureType": 6,
+    "textureWidth": 16,
     "textureHeight": 16
   },
   "objects/object_thiefbird/gTakkuriStolenKokiriSwordPommelTex": {
@@ -68980,6 +69778,12 @@
     "textureType": 2,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "objects/object_tsubo/PotBase_fairy": {
+    "hash": "9f49cbfedb20881baaf7b405123b0303d9d907dd8562a55832fdfad1e9cf7eaa",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji95E5Tex": {
     "hash": "d8b59f3d05df7c4a0962fe9d30e4f458def2e126c5928884b7a2af6c69409289",
@@ -69232,6 +70036,12 @@
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_triforce_piece_1/noise_tex": {
+    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji95E6Tex": {
     "hash": "f1824ba32692128d1ef2f8765829b1b9b0daacf819ec09e663564e847e3acbc6",
@@ -69785,6 +70595,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_taru/TokenBarrelTop": {
+    "hash": "ac84e40ec01d872fb71c700c3ab0cb8441097a7f7e2239c3bd138eb6af013336",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji83B6GreekCapitalOmegaTex": {
     "hash": "6c8f6375fa7d22068cdfcf175ddd7a55ddef0c5bfd53b9e0a1279afa1e6750cf",
     "textureType": 5,
@@ -69905,6 +70721,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00TLUT_023598": {
+    "hash": "22503dafc76ba64243addbb4acfd0f68eba7dcb8cc0ec0a3ea17932e22342b32",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji945DTex": {
     "hash": "2f22a83963d4b1d86f1447865f6cdb1e7dcac52ce608db49021621e2c5605d05",
     "textureType": 5,
@@ -69946,6 +70768,12 @@
     "textureType": 5,
     "textureWidth": 32,
     "textureHeight": 17
+  },
+  "objects/object_kibako/heart_crate_top": {
+    "hash": "f3ee71f77e175e32b2cd72c1ba1789673491e56e90f0877be074d4569259ceaf",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "kanji/gMsgKanji93B8Tex": {
     "hash": "bf3173647cf08b78568838a696c8e9f08ea5dc0c5d65dd6e10c6ac548fe9259a",
@@ -70361,17 +71189,17 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "scenes/nonmq/Z2_DOUJOU/Z2_DOUJOUTex_003B30": {
-    "hash": "3147cf9d600e2f3cd437ab7c7985ca92e40c51badddd95e0bd4ea09f197a1cc2",
-    "textureType": 4,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01D840": {
     "hash": "d587cc372a6fad9c1ccf9202939b1d404991fabb8f83df76927bcfbe453594d2",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_DOUJOU/Z2_DOUJOUTex_003B30": {
+    "hash": "3147cf9d600e2f3cd437ab7c7985ca92e40c51badddd95e0bd4ea09f197a1cc2",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji9872Tex": {
     "hash": "39cfd145b5e8bcbb34d91d1f76610e813c2bc0506faef45f27bcbf9e9e3712e1",
@@ -70937,6 +71765,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_012158": {
+    "hash": "a13b54d7a5e96aa0109856ccc1bc5ba423abaa8e95aedb09729472be5a506662",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_hakaisi/object_hakaisi_Tex_000300": {
     "hash": "abc9455b9c37f1f4fbbff5e05b62996bba89596b320f9e673afc44ba93ec43c9",
     "textureType": 2,
@@ -71224,6 +72058,12 @@
     "textureType": 2,
     "textureWidth": 64,
     "textureHeight": 32
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_019258": {
+    "hash": "081845059ad5e791717c5f3f6c3fe8792df5639a577dc6ce53b5cf7654245e8a",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "objects/object_nb/gNbFingersTex": {
     "hash": "6a00fb0e6ca6aeb19e5902bccfab9c2198dce4f0163bd6048f286655832ccf7e",
@@ -72311,14 +73151,14 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "kanji/gMsgKanji83A8ButtonCRightTex": {
-    "hash": "f41385a7a7abaea25d07289bfcfcd8545d1316f91e38d2e07bf7611f302e0031",
+  "kanji/gMsgKanji9177Tex": {
+    "hash": "acb697f50ca9c5d9542218b61a02f8d6345732561174f3af70c9954b71e23516",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji9177Tex": {
-    "hash": "acb697f50ca9c5d9542218b61a02f8d6345732561174f3af70c9954b71e23516",
+  "kanji/gMsgKanji83A8ButtonCRightTex": {
+    "hash": "f41385a7a7abaea25d07289bfcfcd8545d1316f91e38d2e07bf7611f302e0031",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -72509,17 +73349,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8378KatakanaBeTex": {
-    "hash": "58568c16dda8200f912b95d45d382805b8938a91054e7db6199812566a2580a2",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_012A40": {
     "hash": "b8c44e12396a71af42700d835bacd522e3fc0395a4e32e425bd3c5861c6c9a52",
     "textureType": 2,
     "textureWidth": 8,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji8378KatakanaBeTex": {
+    "hash": "58568c16dda8200f912b95d45d382805b8938a91054e7db6199812566a2580a2",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_bg/gTreasureChestShopGalMouthTex": {
     "hash": "efdbcabe0b9a8e9b5f5297b99404c2c29d85a7c6f3a5bb1fe30d47033bf72b77",
@@ -72755,17 +73595,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "scenes/nonmq/Z2_20SICHITAI/Z2_20SICHITAI_room_00Tex_019CB8": {
-    "hash": "0c49b60a1cac48bcb1086a9809d74cf747b00882b4efa6f82a4f61588b1f93ca",
-    "textureType": 4,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_028F68": {
     "hash": "cf2da2c6b08370e07e0fd210577f894d47e1d1883e364df3c451cf4b0efe3297",
     "textureType": 2,
     "textureWidth": 8,
     "textureHeight": 128
+  },
+  "scenes/nonmq/Z2_20SICHITAI/Z2_20SICHITAI_room_00Tex_019CB8": {
+    "hash": "0c49b60a1cac48bcb1086a9809d74cf747b00882b4efa6f82a4f61588b1f93ca",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji89B3Tex": {
     "hash": "edefe7cea0f96b9a078a67f887601a33111e7c6603e3b095fdab3c8b8ad393fa",
@@ -72815,17 +73655,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji83B5GreekCapitalPsiTex": {
-    "hash": "2ed60922f68b6bae9b5c6c3299dfee1bae7713b6ec3406d07cda9fd097cade16",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_0050D0": {
     "hash": "056d43dcc2a3eaacd03be30a0d1ecea5d50d94a85606aec56aa5c2c5167aaa30",
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "kanji/gMsgKanji83B5GreekCapitalPsiTex": {
+    "hash": "2ed60922f68b6bae9b5c6c3299dfee1bae7713b6ec3406d07cda9fd097cade16",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8D84Tex": {
     "hash": "a121ee5d76230b54101585e0b664d5964157f5b5ac474810a10301612bc90b34",
@@ -73051,6 +73891,12 @@
   },
   "scenes/nonmq/Z2_20SICHITAI/Z2_20SICHITAI_room_00Tex_01CB88": {
     "hash": "5cfbb4a2ad30d11d4ed854fafd10e350d5c7287f77b73d8060b464534fb1ea8c",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_triforce_piece_2/noise_tex": {
+    "hash": "ebe9c8f37fc9c0b2952f0098c230bafad3202e24bc890b90764d48176b8c75e0",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -73301,16 +74147,16 @@
     "textureWidth": 16,
     "textureHeight": 64
   },
-  "objects/object_gi_sword_4/gGiGreatFairysSwordLeafPatternTex": {
-    "hash": "30dfc53a4d3ff4bea88d2113dcb268a3a70f787e93bdb2d8236ba9ea38082ad1",
-    "textureType": 8,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_0110C0": {
     "hash": "53b0ad3379cd371145d0f2dc2dbf529700d726ecf4249bd90731e57df808b93a",
     "textureType": 4,
     "textureWidth": 64,
+    "textureHeight": 32
+  },
+  "objects/object_gi_sword_4/gGiGreatFairysSwordLeafPatternTex": {
+    "hash": "30dfc53a4d3ff4bea88d2113dcb268a3a70f787e93bdb2d8236ba9ea38082ad1",
+    "textureType": 8,
+    "textureWidth": 32,
     "textureHeight": 32
   },
   "kanji/gMsgKanji987BEmptyTex": {
@@ -73594,6 +74440,12 @@
     "textureType": 5,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "objects/object_taru/MajorBarrelTop": {
+    "hash": "d204610021ac6f106a0a20640faa1c37a6d55e8e533192ef04aab14e20a31307",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_8ITEMSHOP/Z2_8ITEMSHOPTex_003930": {
     "hash": "d6f0740b4446de20ae6db51048a02dae503e57e58df5e4407a0105c58b3ded78",
@@ -74261,6 +75113,12 @@
     "textureWidth": 8,
     "textureHeight": 64
   },
+  "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_0041D0": {
+    "hash": "632352d6cbcd6729bf2c986a627015cba59c7912a03be6c07f89000fb0e12aed",
+    "textureType": 4,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/gameplay_keep/gEffPoppedDekuBubbleSliding10Tex": {
     "hash": "286a3be5e3961b22bb00f718519c1549b11d224bacbfb38d80396b31979b98bb",
     "textureType": 5,
@@ -74270,12 +75128,6 @@
   "objects/object_link_child/object_link_child_Tex_005C40": {
     "hash": "0a111b41799e3f4442cac7b651491225cbfd478bf93b1157c468a4e60c6da39f",
     "textureType": 6,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
-  "scenes/nonmq/Z2_KAJIYA/Z2_KAJIYATex_0041D0": {
-    "hash": "632352d6cbcd6729bf2c986a627015cba59c7912a03be6c07f89000fb0e12aed",
-    "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -74321,11 +75173,23 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/object_ocarina_c_down_button/noise_tex": {
+    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_01FB80": {
     "hash": "5a98f4fb0d7fc06234d84b03bf99a881115afea7f318c92d4036f08d68db69e4",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_kibako2/minor_crate_side": {
+    "hash": "83bd5d47517ec392d60b8d764f8675425e405551b8df12a79ccf73c59d082b91",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_LABO/Z2_LABOTex_0088C0": {
     "hash": "1b43a7f537dc6926319442ebe5188718d3eb7085fad62be0c829fec6bda3d13f",
@@ -74464,6 +75328,12 @@
     "textureType": 5,
     "textureWidth": 80,
     "textureHeight": 60
+  },
+  "objects/object_kibako2/major_crate_top": {
+    "hash": "488700e779b83d1c2b57fb47760e5e6bc14904841edd47826b5e37af43e59b1d",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "misc/title_static/gFileSelDecideCancelENGTex": {
     "hash": "ee14c404eae39b70275d9f9129173546156e9c0c8dc61db6293dc4db14b8d348",
@@ -74669,17 +75539,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8F4DTex": {
-    "hash": "ed635243fed0af3ddcc230574951e54c4437cda56dd6c82f46a9185e6843261f",
-    "textureType": 5,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KINDAN2/Z2_KINDAN2_room_02Tex_008B18": {
     "hash": "fd5c3f71b9b0e87b7c4e8d153e203d982de8b6e3e756d936defe74d623ddb252",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "kanji/gMsgKanji8F4DTex": {
+    "hash": "ed635243fed0af3ddcc230574951e54c4437cda56dd6c82f46a9185e6843261f",
+    "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8A78Tex": {
     "hash": "aeb243f6c7d07c3f526a77e1c75a1679ea551cf9b610a85ba5d4d732993cb099",
@@ -74795,6 +75665,12 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01C358": {
+    "hash": "e8779edabddf666da847589353ab13f890bfbeb6a4f71e4508118a9a93fa4f79",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "objects/object_mnk/object_mnk_TLUT_001620": {
     "hash": "0fc54173862c107f52aa34c377af4c409a034e4e43da6c6133df021c70aeff9c",
     "textureType": 2,
@@ -74812,6 +75688,12 @@
     "textureType": 4,
     "textureWidth": 16,
     "textureHeight": 32
+  },
+  "objects/object_ability_swim/flippers2": {
+    "hash": "4b4e04939793126f52c538b3b5572ec1f898db22e7512162b84478a2dfbe688a",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_obj_yasi/gPalmTreeDekuNutTex": {
     "hash": "81b5c9bc10c77a32d08e1d085c8f4b1aba1e46904ebdd3910259c2e206b3e858",
@@ -75161,6 +76043,12 @@
     "textureWidth": 128,
     "textureHeight": 32
   },
+  "objects/object_kibako2/heart_crate_side": {
+    "hash": "7b99eb720bd8ceafa5efb9a5e47a3d6bab5f222517527626f77a7448da9a3bdc",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
   "objects/object_dnk/gDekuPalaceGuardEyeOpenTex": {
     "hash": "182661d5a7151a83a0680a031e671ffabf70cc83ccc75331522b30cc45907577",
     "textureType": 2,
@@ -75473,16 +76361,16 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGIN_room_10Tex_002470": {
-    "hash": "ae9e4aa22b68c8eb93b07097db80027e7abd274c30f1c00dd82fbcaaeaaa652d",
-    "textureType": 3,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00C1C0": {
     "hash": "9f784d77c49ce237119e2c163575d60136fd55f2f0615ec7fc419aa8ce1602ea",
     "textureType": 2,
     "textureWidth": 16,
+    "textureHeight": 64
+  },
+  "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGIN_room_10Tex_002470": {
+    "hash": "ae9e4aa22b68c8eb93b07097db80027e7abd274c30f1c00dd82fbcaaeaaa652d",
+    "textureType": 3,
+    "textureWidth": 64,
     "textureHeight": 64
   },
   "kanji/gMsgKanji8DC0Tex": {
@@ -76583,16 +77471,16 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cne/gHylianYoungWomanOrangeHairFaceTex": {
-    "hash": "44d1d801babdcfbe534261e82c069553a4efdff349f76a97dd117e25d6c956f0",
-    "textureType": 2,
-    "textureWidth": 8,
-    "textureHeight": 16
-  },
   "objects/object_boj/object_boj_Tex_009F00": {
     "hash": "d80db9c31a04d8f299b1b62d371868c6c1909e3a4247ecd1cb72db96958a160e",
     "textureType": 4,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_cne/gHylianYoungWomanOrangeHairFaceTex": {
+    "hash": "44d1d801babdcfbe534261e82c069553a4efdff349f76a97dd117e25d6c956f0",
+    "textureType": 2,
+    "textureWidth": 8,
     "textureHeight": 16
   },
   "kanji/gMsgKanji94F3Tex": {
@@ -76639,6 +77527,12 @@
   },
   "objects/object_test3/gKafeiMouthTLUT": {
     "hash": "0f9d96680566fb514f8f9a5058d9231acba738a34b6474479d0d56a01f5efada",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/object_tsubo/PotLip_minor": {
+    "hash": "4fee34b727af1e936623e5582f053f645b839543aa550c46b8e15a33ec32b5e4",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
@@ -77327,6 +78221,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "objects/object_tsubo/PotBase_token": {
+    "hash": "9dcc64b55ef2702b7f76cf0a740ed88251ad0404a13e0fbf51551ca56606b2e3",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_INISIE_R/Z2_INISIE_R_room_11Tex_003ED8": {
     "hash": "d78881a5febf3220a1d630b633b7a7448507fb6dd5bcf757d0be1c2c87cd2f88",
     "textureType": 4,
@@ -77681,6 +78581,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_026638": {
+    "hash": "f37c46e51f117340b05b664b3febae1c6fac4455b251df53e94b9dc15cf71e04",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "objects/object_stk2/gSkullKidMajorasMaskCurseOverlayMaskTex": {
     "hash": "b2a9b28a67ec3e697f7bbd43f4af6275b983e5f7349726b78283247f8b8c6088",
     "textureType": 6,
@@ -77822,6 +78728,12 @@
   "scenes/nonmq/Z2_OMOYA/Z2_OMOYA_room_00Tex_008C08": {
     "hash": "cce138922507d156ab6048b71f05ad5207d5706a48d6b717658d2322ec4bf01a",
     "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "objects/object_tsubo/PotFace_heart": {
+    "hash": "f9e9d0973ca82a3c958feb16746fa0938b1a89b4376e1db122789b9e47738f64",
+    "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -78035,6 +78947,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_link_child/object_link_childTLUT_00D880": {
+    "hash": "f2aa27c37ce4bc8016d4104fd9d40c7ce73f0c43cd2e6b43ac27938a854755a5",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8878EmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
@@ -78107,17 +79025,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/KAKUSIANA/KAKUSIANA_room_09Tex_0017D0": {
-    "hash": "48e5ea25d1f288130e8d049d9f73b10b196dc9c6cd6c0e7fc2a58ca8d0395aca",
-    "textureType": 2,
-    "textureWidth": 64,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_00FEC0": {
     "hash": "b57bde01dee220a615d43650614da7cdb11a8fdb73031cca536ac02e5da8cdb0",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "scenes/nonmq/KAKUSIANA/KAKUSIANA_room_09Tex_0017D0": {
+    "hash": "48e5ea25d1f288130e8d049d9f73b10b196dc9c6cd6c0e7fc2a58ca8d0395aca",
+    "textureType": 2,
+    "textureWidth": 64,
+    "textureHeight": 16
   },
   "objects/object_warp1/gWarpBossWarpGlowBottomMaskTex": {
     "hash": "2b4d4f8e43d0c3ae22bc13815d06ff8012a59b453f9715f30f17b50904cc085a",
@@ -78665,6 +79583,18 @@
     "textureWidth": 16,
     "textureHeight": 8
   },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01E158": {
+    "hash": "1c108ef40d49273ef126ff5b069170b6c36f6519f3030f7dfc9ae4ece39c6587",
+    "textureType": 3,
+    "textureWidth": 64,
+    "textureHeight": 64
+  },
+  "objects/object_taru/JunkBarrelTop": {
+    "hash": "0b5d44be748ec4efe003a22cfdbcac75099ebf103de210a07d382ae6b5e09da0",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "scenes/nonmq/Z2_20SICHITAI2/Z2_20SICHITAI2_room_00Tex_011628": {
     "hash": "19f98ad67d3794f7c13df596c8710b13079c675964604bdcea7f72e951781038",
     "textureType": 2,
@@ -79149,6 +80079,12 @@
     "hash": "f9e1f492a611dd248aba97795e2b0fd452313e76f6f7b431c6939dc2521a5455",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_IKANA/Z2_IKANA_room_00Tex_01DB58": {
+    "hash": "581bb453b371cf96adc5bb5145175134bc282e902740104e43c1405a8f98d669",
+    "textureType": 4,
+    "textureWidth": 64,
     "textureHeight": 16
   },
   "objects/object_dblue_object/gGreatBayTempleObjectUnused5TLUT": {
@@ -79654,6 +80590,12 @@
     "textureType": 5,
     "textureWidth": 80,
     "textureHeight": 56
+  },
+  "objects/object_taru/HeartBarrelTop": {
+    "hash": "569ce79642ec9bef6ea06fa54ab89077126e415f07f49fbf45e6920e128e6079",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "scenes/nonmq/Z2_SYATEKI_MORI/Z2_SYATEKI_MORITex_005B90": {
     "hash": "3a46d265ef830862542eb00ef17408b6187283d8c1bab193afe17d1af2cba4b9",
@@ -80458,6 +81400,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_ocarina_c_left_button/noise_tex": {
+    "hash": "e30ea94950be8da964f0170b46a475df8c25fbdc8dc1afadd60c3e7cec7e9a18",
+    "textureType": 6,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji895ATex": {
     "hash": "38b40bcb55eea5773081da230ef492e5c6f077fd8aa67318e31af40060f280f1",
@@ -81310,6 +82258,12 @@
     "textureType": 4,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "objects/gameplay_field_keep/flower_mask_tex.rgba16": {
+    "hash": "9b81b98bbca16636425f7d88c3323f8cedad891da714d15137e38787d6e6badf",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8366KatakanaDeTex": {
     "hash": "c4600df13d29a249a7e674df8563f2620f8b8c81258fbd831a25086258ca83b1",
