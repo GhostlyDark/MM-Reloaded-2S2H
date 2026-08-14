@@ -269,6 +269,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "misc/title_static/gFileSelArrowLeftTex": {
+    "hash": "bb2450a1be078617f6f55b16f1ac35ef14166797b84a08abc117e3700924a424",
+    "textureType": 8,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji96A4Tex": {
     "hash": "ba3eb2b0f0985726fd2bba1ddcb7549faaeee6730a181a28faf4f31c295b0e83",
     "textureType": 5,
@@ -1275,6 +1281,12 @@
     "hash": "1170900e0f4c19fef2d164d6a538842c60e9736996b2b84253b2a2e7cdb63ca6",
     "textureType": 6,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelNoFileToEraseIA4ENGTex": {
+    "hash": "b4093c5f142657a9a1e8fa8d0e7d7f871b82a38bbb45803110a9770bc4e73dc4",
+    "textureType": 7,
+    "textureWidth": 128,
     "textureHeight": 16
   },
   "icon_item_static_yar/gPauseQuestStatus12Tex": {
@@ -4229,6 +4241,12 @@
     "textureWidth": 32,
     "textureHeight": 26
   },
+  "objects/gameplay_keep/gGrassBunchTex.rgba16": {
+    "hash": "c9a10e0d4451e81a714249b5d849a357b6ad71c4ac68b3524fe80b57026ac979",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "kanji/gMsgKanji8BB8Tex": {
     "hash": "7d9efbdcd188fd86a3756e178ad00c11fcfbc7bd72a3809da02a4cde1b942e07",
     "textureType": 5,
@@ -5327,6 +5345,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "objects/gameplay_keep/flower_token_tex.rgba16": {
+    "hash": "008ed8c48f6003d63b23c48105df15a9e6358b5447a41c9bab135b750768a892",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji947DTex": {
     "hash": "5237b0aa4a1c07dc1ad38a23df21b689803c5c1929870b12c9b4f44bb6080352",
     "textureType": 5,
@@ -5897,14 +5921,14 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
-  "kanji/gMsgKanji88B7Tex": {
-    "hash": "91786eee20c67ad5b4ea50abd36fd9067b24a81745b77ce561d1df9f8232202d",
+  "kanji/gMsgKanji886DEmptyTex": {
+    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji886DEmptyTex": {
-    "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
+  "kanji/gMsgKanji88B7Tex": {
+    "hash": "91786eee20c67ad5b4ea50abd36fd9067b24a81745b77ce561d1df9f8232202d",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -11243,17 +11267,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_botihasira/object_botihasira_Tex_000648": {
-    "hash": "388d4145a7fcf1b2402dc80c137406f31a34ab0481d64c2f599cda670f578843",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "objects/gameplay_dangeon_keep/gameplay_dangeon_keep_Tex_0022C8": {
     "hash": "50477fc1284e8304b78b2207b190c85b9f0d7c8b08b2430eec26e940372b95ff",
     "textureType": 5,
     "textureWidth": 96,
     "textureHeight": 85
+  },
+  "objects/object_botihasira/object_botihasira_Tex_000648": {
+    "hash": "388d4145a7fcf1b2402dc80c137406f31a34ab0481d64c2f599cda670f578843",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "objects/object_in/object_in_Tex_00FDB8": {
     "hash": "4faec34b4724369da3af007ac078f616e52bd463ae9009e23c26ce6faa7b4d32",
@@ -12467,6 +12491,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelSurroundIA4ENGTex": {
+    "hash": "484fde8fa43e06fcf5f3b9b717ebec1542978a51286868ac324edf196b2e0dac",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji81F3EmptyTex": {
     "hash": "fe4ebb53f44c097d0cac0c804c6b665e558b11f0d9cff7ecb14c11637621bd74",
     "textureType": 5,
@@ -12833,17 +12863,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_boss07/gMajorasWrathTitleCardTex": {
-    "hash": "3eac8f2cd579f64f379272535f8aec7247d8b2a96953c20f72a2a3c583e5ace0",
-    "textureType": 8,
-    "textureWidth": 128,
-    "textureHeight": 40
-  },
   "kanji/gMsgKanji86D1BoxVertThinHorizThickTopTex": {
     "hash": "e1c52dd4ff48c590a856cd656b761faaaf34ff618afd4bfa553deb72c5460216",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_boss07/gMajorasWrathTitleCardTex": {
+    "hash": "3eac8f2cd579f64f379272535f8aec7247d8b2a96953c20f72a2a3c583e5ace0",
+    "textureType": 8,
+    "textureWidth": 128,
+    "textureHeight": 40
   },
   "objects/object_an1/gAnju1EyeHalfTex": {
     "hash": "06496e795e851d332959250b468b576c50fbbd2dafaf53fafda703f504b9adf0",
@@ -13936,6 +13966,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/object_key/Hilite_new": {
+    "hash": "5495484673d0d20d37fa1a32a4699ff2be002a9adbb4cb22e3ce400d8c7ea564",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "parameter_static/gEmptyCRightArrowTex": {
     "hash": "1cccecc275d86ce511995afd72d942fd73e3076a67215808971587812f91bb5e",
@@ -15479,17 +15515,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_zl4/gDmZl4HairOnSideTex": {
-    "hash": "3890541d57fa28798c3cb55331c7f6397021b69918ada22776fd4f84a54a4b66",
-    "textureType": 2,
-    "textureWidth": 16,
-    "textureHeight": 16
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTLUT_0118C0": {
     "hash": "4bb9e1c1b741d4e6053db8ce4077c3be9c1af9dda9c8d434b33dea592f748208",
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "objects/object_zl4/gDmZl4HairOnSideTex": {
+    "hash": "3890541d57fa28798c3cb55331c7f6397021b69918ada22776fd4f84a54a4b66",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji8B43Tex": {
     "hash": "01ce8971054684603a7f059b655dc3205e9f4b45e572ed115fdf4b9d3b610c0f",
@@ -16672,6 +16708,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "misc/title_static/gFileSelArrowRightTex": {
+    "hash": "5e91b4be160a8a71f7358783843a11419ab97d757a1be2d6ee1ac34e8f8d5a8c",
+    "textureType": 8,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "scenes/nonmq/Z2_F40/Z2_F40Tex_008D20": {
     "hash": "fc1f2ed32a1cfcd40930dda39f2710744ec65199ebf9fe820fe43f33c13af9b4",
@@ -18305,17 +18347,17 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
-  "schedule_dma_static_yar/gBombersNotebookPhotoToiletHandTex": {
-    "hash": "253e8459823b9c8bbb344ae0b79dccc6a2c72783aa738beadf4628e54c907a6a",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "misc/title_static/gFileSelNoEmptyFileENGTex": {
     "hash": "f616d3cb12e2c89093c92422db0fb7d5b7d91a691cf64002aa49371f76b4d032",
     "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 16
+  },
+  "schedule_dma_static_yar/gBombersNotebookPhotoToiletHandTex": {
+    "hash": "253e8459823b9c8bbb344ae0b79dccc6a2c72783aa738beadf4628e54c907a6a",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_dekubaba/gDekuBabaStickDropTex": {
     "hash": "f9e82d2d67393a1c7531fd90a8bcaaf60e10f0492bf4a35cb0440ea9ec82d526",
@@ -18465,6 +18507,12 @@
     "hash": "d94b85e1267ed7dcdb7df346fe1d40de106dfd53b8bf09b2d0c7e7ec41dcf130",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelModeHeaderTex": {
+    "hash": "505644eed7b986346d4f39ff4eb50cccda51d93b77b554917058f6a0f33d50d0",
+    "textureType": 8,
+    "textureWidth": 40,
     "textureHeight": 16
   },
   "objects/object_warp1/gWarpBossWarpLightShaftsTex": {
@@ -18725,17 +18773,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_boss_hakugin/gGohtRockTex": {
-    "hash": "63def477a81c5aaffdbd3f121fbf66379c2eb4a96f77a4fca6635d5effa17093",
-    "textureType": 2,
-    "textureWidth": 36,
-    "textureHeight": 36
-  },
   "kanji/gMsgKanji945CTex": {
     "hash": "167e69f614d307ac80b904c27926e102969a8f546bbd73520eb01dd0d706b67f",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_boss_hakugin/gGohtRockTex": {
+    "hash": "63def477a81c5aaffdbd3f121fbf66379c2eb4a96f77a4fca6635d5effa17093",
+    "textureType": 2,
+    "textureWidth": 36,
+    "textureHeight": 36
   },
   "scenes/nonmq/Z2_F01/Z2_F01Tex_016FC0": {
     "hash": "c46123f1bbb6f6793f7f331d593af90b9560fdc55b19a273912afc6a81195b0e",
@@ -21047,6 +21095,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelHeadsetIA4ENGTex": {
+    "hash": "cc5c4cf7a4256c00c13d5c60419ebc46a4dd3b74c62568b4d9218537de14fe2b",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
+  },
   "objects/object_fish/gFishingBassSpinyFinTex": {
     "hash": "a19d8f1f222a9b4913cc2a207f2fb44d4b43db75ddd1e35157803313c4f72bb1",
     "textureType": 2,
@@ -21707,6 +21761,18 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "objects/gameplay_keep/flower_heart_tex.rgba16": {
+    "hash": "f93bbd03cf787d0b82e7fac3c2ee1fa0c3503249cf2ac146fd1d6f40edb5233c",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_keep/flower_random_tex.rgba16": {
+    "hash": "942d78a02b8eeb8c5cf57fb33e05d7ceb3fb208791d82333b83576206b7de1ef",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji8D88Tex": {
     "hash": "f8c6934d595bf77169d998d22856175e3768201d2f574fd170563baa98c5d8e9",
     "textureType": 5,
@@ -22253,6 +22319,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "misc/title_static/gFileSelNoEmptyFileIA4ENGTex": {
+    "hash": "522ac84e6e91ad690f229b2dd96025e92ce8ada54268823f54f1ab520b0e16be",
+    "textureType": 7,
+    "textureWidth": 128,
+    "textureHeight": 16
+  },
   "objects/object_cs/object_cs_Tex_00C060": {
     "hash": "1d6d8d5fb74df8bb8b1f8527a412d4180b419b6c485403ef3d2a3935e41eb5c9",
     "textureType": 4,
@@ -22785,6 +22857,12 @@
     "hash": "d19c6e2c321399bc4f554022cd3852482a4dc834e3b6dfeff63887e3fd40b079",
     "textureType": 5,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelTargetingIA4ENGTex": {
+    "hash": "5388e7cdc0b2f8e2b371d0d3ac573d219f247c15eab6ed3bc8e2929be6c5c8c3",
+    "textureType": 7,
+    "textureWidth": 64,
     "textureHeight": 16
   },
   "objects/object_link_boy/object_link_boy_TLUT_000200": {
@@ -25325,6 +25403,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelSeedHeaderTex": {
+    "hash": "9acb29e54554b3d58626f18c89287054fe8b183f329adcd781939dc9f58adbd0",
+    "textureType": 8,
+    "textureWidth": 32,
+    "textureHeight": 16
+  },
   "objects/object_ma1/gRomaniHandTex": {
     "hash": "49034b4e1897486a1c28b245f1ff47354cabcc44fc1a1f31676e8ec42f945843",
     "textureType": 4,
@@ -25721,17 +25805,17 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "objects/object_boss_hakugin/gGohtTitleCardTex": {
-    "hash": "367b89df7cd9dad91c2709888140d05084a7a3fa1a34dc2f057d578f89fd108f",
-    "textureType": 8,
-    "textureWidth": 128,
-    "textureHeight": 40
-  },
   "kanji/gMsgKanji908CTex": {
     "hash": "318683fd8423596f3ac084c7ee56ca84cde9db83909330f1b9b6bfa1b391fdc0",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/object_boss_hakugin/gGohtTitleCardTex": {
+    "hash": "367b89df7cd9dad91c2709888140d05084a7a3fa1a34dc2f057d578f89fd108f",
+    "textureType": 8,
+    "textureWidth": 128,
+    "textureHeight": 40
   },
   "scenes/nonmq/Z2_SYATEKI_MORI/Z2_SYATEKI_MORITex_007190": {
     "hash": "60dd1d39a359f439a8a0ae0f1ffbb21fd38717ad19bd688d1b404784506d7dfe",
@@ -28337,6 +28421,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "misc/title_static/gFileSelSoundIA4ENGTex": {
+    "hash": "bb291a769b5611da274e0b54f944e00b07e4e2ee03b758f6d6fe6fb2151adaa9",
+    "textureType": 7,
+    "textureWidth": 64,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_10YUKIYAMANOMURA2/Z2_10YUKIYAMANOMURA2_room_00Tex_0121C8": {
     "hash": "dfe89083abf2fa50ac5ad7cbcd8cec6c49d089d3436a2f88fd566c98efdb10af",
     "textureType": 2,
@@ -28480,6 +28570,12 @@
     "textureType": 1,
     "textureWidth": 24,
     "textureHeight": 24
+  },
+  "misc/title_static/gFileSelStereoIA4ENGTex": {
+    "hash": "7970bcc0247030445ed1a0321cd9fc12c6b9e7b4d3f548eb8cd4fbc0dd04790d",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
   },
   "objects/object_ma1/gRomaniDressPatternTex": {
     "hash": "001634f072968b3dd80a470515a11522d03c10abf124f3a6786882bbbe99ba43",
@@ -28737,6 +28833,12 @@
     "hash": "a2573061600e603965956d79242bc4f9ac3e541d439bcf5a96d6a03882919672",
     "textureType": 4,
     "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelVanillaTex": {
+    "hash": "b79353b6fd3c25970a1b88c18542e54947eccd6a6ba809178d83677245812e24",
+    "textureType": 8,
+    "textureWidth": 48,
     "textureHeight": 16
   },
   "kanji/gMsgKanji84BABoxVertThinHorizThickLeftTex": {
@@ -30125,14 +30227,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji8F5DTex": {
-    "hash": "692dcc40e31508ea6637f7468f86049c6230e1f0f085954d59a7f37ed4bcc99c",
+  "kanji/gMsgKanji90CFTex": {
+    "hash": "33022b3550ef98c537ba23bfc25a58194450a955af4fb4a530d8b999bc52c2e3",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji90CFTex": {
-    "hash": "33022b3550ef98c537ba23bfc25a58194450a955af4fb4a530d8b999bc52c2e3",
+  "kanji/gMsgKanji8F5DTex": {
+    "hash": "692dcc40e31508ea6637f7468f86049c6230e1f0f085954d59a7f37ed4bcc99c",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -34649,6 +34751,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "objects/gameplay_keep/flower_mask_tex.rgba16": {
+    "hash": "9b81b98bbca16636425f7d88c3323f8cedad891da714d15137e38787d6e6badf",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_CLOCKTOWER/Z2_CLOCKTOWERTex_016C00": {
     "hash": "74769354c46d6fe48bb67437f54886534b56ca2e3c89e6cf7589ad17f50ad23a",
     "textureType": 2,
@@ -35765,17 +35873,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGIN_room_02Tex_006A30": {
-    "hash": "ed9ad12587f69c4e554b011714dd178f442183835f6e0d851618e62b2bc1b355",
-    "textureType": 3,
-    "textureWidth": 64,
-    "textureHeight": 64
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTLUT_011900": {
     "hash": "6d3910bf23f490cbb927143b668280a26d7031cb9a5cb364a5795ac73e6c71b0",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_HAKUGIN/Z2_HAKUGIN_room_02Tex_006A30": {
+    "hash": "ed9ad12587f69c4e554b011714dd178f442183835f6e0d851618e62b2bc1b355",
+    "textureType": 3,
+    "textureWidth": 64,
+    "textureHeight": 64
   },
   "objects/object_wiz/gWizrobeStaffTex": {
     "hash": "59827dcc46dcf956cfb60e6f187058042366a4dba490c2c6aa1660ef2ade9b39",
@@ -38992,6 +39100,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/gameplay_keep/flower_bosskey_tex.rgba16": {
+    "hash": "55bed8f8a125b3283a4ab23c055f3abc6a9b6f2f56a304d507d3b0f2a961294b",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_horse_link_child/object_horse_link_child_Tex_002168": {
     "hash": "3b1ad0329e622f4deee24b9d16b6fbf4c86bf4a524f726d53f1700948a266290",
@@ -42353,6 +42467,12 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelCheckBrightnessIA4ENGTex": {
+    "hash": "2489ac72580d3876c0c81f42f8e5a1bc44b3c94bdf5dede7be6953489f43a6a9",
+    "textureType": 7,
+    "textureWidth": 96,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_OMOYA/Z2_OMOYA_room_01Tex_00DD28": {
     "hash": "1332109d1db9693a2e64417004c06719b0d750aca19348668d0e12222bfa5bb1",
     "textureType": 4,
@@ -43221,6 +43341,12 @@
     "hash": "6e3256d9cd80c4543682f381f86b6bcfa91d58f170b8dc265dbdb7b6e68c089c",
     "textureType": 4,
     "textureWidth": 32,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelNewFileTex": {
+    "hash": "d4ef8bc29b73ecbe5cf69fafd467842a46e2e0f5653860d15e59a50c0e72cdbe",
+    "textureType": 8,
+    "textureWidth": 56,
     "textureHeight": 16
   },
   "map_i_static/gMapIStatic23Tex": {
@@ -45419,17 +45545,17 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "icon_item_static_yar/gItemIconGoronMaskTex": {
-    "hash": "cb4a658749961900db18f412f50668ead29cce7d48b2ed60c2deb4af53dd488b",
-    "textureType": 1,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_INSIDETOWER/Z2_INSIDETOWER_room_00Tex_00A978": {
     "hash": "6b9091f297f9678c16376ad18946b55c26afd5469ff52bb5acf5642408ee7593",
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "icon_item_static_yar/gItemIconGoronMaskTex": {
+    "hash": "cb4a658749961900db18f412f50668ead29cce7d48b2ed60c2deb4af53dd488b",
+    "textureType": 1,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "kanji/gMsgKanji88E3Tex": {
     "hash": "f70dba1873ac3ad04c844631b284786fdaab1cc248e21f3cf9571550fc83d89b",
@@ -45536,6 +45662,12 @@
   "kanji/gMsgKanji9791Tex": {
     "hash": "dbe5deeb650ccf11b5be5f4dab36a34bdd45ad0305ab2558cbfe0ee91ab83e61",
     "textureType": 5,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
+  "objects/gameplay_keep/LeafTex.rgba16": {
+    "hash": "0a0588448cd0d46ad0a9f2f101529bd61d98e9a53b901cba1cca9ccb0556d282",
+    "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
@@ -45790,6 +45922,12 @@
     "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "objects/gameplay_keep/flower_fairy_tex.rgba16": {
+    "hash": "1ac81e83985da97f61a863476338e2a2bb8251866221e7c367aa4cf8ea8f3116",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/gameplay_keep/gEffBubble2Tex": {
     "hash": "c5e07dd90c7d9d9805e315af4b5213791ddd3ab4a227d8ba9bf312214e91c2ae",
@@ -51797,6 +51935,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "misc/title_static/gFileSelRandomizerTex": {
+    "hash": "0fce20a2fd4291c920b16cc9db4ee15b6fcf6c8732df98339d84f1a3424cbd50",
+    "textureType": 8,
+    "textureWidth": 80,
+    "textureHeight": 16
+  },
   "misc/d2_fine_static/gSkyboxClear5Tex": {
     "hash": "afb7e192d7719cbbf8c4183b51c7599ead2abca4d58a6a16ac16c736ee5e8e75",
     "textureType": 4,
@@ -51898,6 +52042,12 @@
     "textureType": 4,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "misc/title_static/gFileSelOptionsIA4ENGTex": {
+    "hash": "7def0d066cdefa264be89aedc7dbd7fb537f371d0f1f5992b3c175e9e23d925c",
+    "textureType": 7,
+    "textureWidth": 128,
+    "textureHeight": 16
   },
   "objects/object_bsb/object_bsb_Tex_00B8E0": {
     "hash": "f951242418cf49fc37d21ef12a1463584f76809f252dbd3f6e5977ebc0406f16",
@@ -57659,6 +57809,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "objects/gameplay_keep/flower_gold_tex.rgba16": {
+    "hash": "b4cf9e06d6f6c08d8c8d934628494123e17baf060c54b35ff4caa67a33addd94",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_po_fusen/gPoeBalloonLanternStandTex": {
     "hash": "eec99cdb95f70d50d0e712a9179292eb32d963d5e2fd698e5582d51814b0a021",
     "textureType": 2,
@@ -58238,6 +58394,12 @@
   "objects/object_az/gBeaverYoungerBrotherBeltBlueTex": {
     "hash": "0cd9c0257b77ec5289a474e51975e4d6e8c1190c37694f60e32a5402ddfffd7f",
     "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "textures/parameter_static/gFlippers": {
+    "hash": "2227e98baf00a98b484ce0a12b0a27cc8fffdc9e51108ae751a5fcb762bf1e63",
+    "textureType": 1,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -59501,6 +59663,12 @@
     "textureWidth": 32,
     "textureHeight": 8
   },
+  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_007540": {
+    "hash": "318b03986971b3666b705cb8251de58254035563ade293285da867adc72c31f1",
+    "textureType": 9,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "objects/object_link_child/object_link_child_Tex_005D80": {
     "hash": "34ecdee800d2556c43fffbdc54c3c7b95b3ab0df4caf96c3db6f86625dbff5f8",
     "textureType": 6,
@@ -59510,12 +59678,6 @@
   "scenes/nonmq/Z2_F01_B/Z2_F01_BTex_0042C0": {
     "hash": "1c430ad3bfe2f950cabd645668951a9a967f0eb3b0f470d08fa97cb4b6824e17",
     "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
-  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_007540": {
-    "hash": "318b03986971b3666b705cb8251de58254035563ade293285da867adc72c31f1",
-    "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 32
   },
@@ -61084,6 +61246,12 @@
     "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "misc/title_static/gFileSelPresetHeaderTex": {
+    "hash": "30d7e61588bee0a21d3e5cf04a8434cddb079eda37ae026233a86fc97db33fdd",
+    "textureType": 8,
+    "textureWidth": 48,
+    "textureHeight": 16
   },
   "objects/object_ma1/gRomaniHairTex": {
     "hash": "94e273ea2c7e39a94f0a7ad6aa4243e5070da745411a62ffee4b44120f678458",
@@ -66023,6 +66191,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/object_mag/gTitleScreenCopyright20002003NintendoTex": {
+    "hash": "34c3ebb9888b8bca501edf5494050774d2f9a44d436fb50b299138bfa868f93a",
+    "textureType": 6,
+    "textureWidth": 200,
+    "textureHeight": 16
+  },
   "scenes/nonmq/Z2_13HUBUKINOMITI/Z2_13HUBUKINOMITITex_002DF0": {
     "hash": "326847b5967af65e001633a083c0be4aeb2a8cec91731fb93388af4e97d27709",
     "textureType": 2,
@@ -66401,6 +66575,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "misc/title_static/gFileSelGenerateNewTex": {
+    "hash": "4a834b3a6677755d6969c4acc1d9bef61ea2fc69255349c64cc406708f4ef0ee",
+    "textureType": 8,
+    "textureWidth": 88,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji88C1Tex": {
     "hash": "ba1c63413b66edafc039bad1a8f5727c19d80cfc2128c31678182905b9abdfc8",
     "textureType": 5,
@@ -66490,6 +66670,12 @@
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "objects/gameplay_keep/StemTex.rgba16": {
+    "hash": "719cb74ff9113ba78a1587ee4998b8098c1dd143425a4c79983bef59113ab6e4",
+    "textureType": 2,
+    "textureWidth": 8,
+    "textureHeight": 8
   },
   "objects/object_ms/gBeanSalesmanTLUT": {
     "hash": "1f606cee370d7d07b17a8bb0ec8f1cc7b246ffcf7352cea155709293c763bc13",
@@ -67325,17 +67511,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_AYASHIISHOP/Z2_AYASHIISHOP_room_00Tex_0109D0": {
-    "hash": "73c2d3f49587898b87b69103caa3cfc9dbaea344b8249a94a44fac307a6057c8",
-    "textureType": 4,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_008740": {
     "hash": "0dcb4162f2d0be690c089c7698875e27ddb451c7458ffe2989802e97f0067fe1",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 8
+  },
+  "scenes/nonmq/Z2_AYASHIISHOP/Z2_AYASHIISHOP_room_00Tex_0109D0": {
+    "hash": "73c2d3f49587898b87b69103caa3cfc9dbaea344b8249a94a44fac307a6057c8",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "objects/object_boss07/gBossMaskGyorgToothHornTex": {
     "hash": "148d5aae6829abdaf113e44769c991c63d5f8ec98773598e70a4b481ab7445fc",
@@ -67569,6 +67755,12 @@
     "hash": "046a679139e8186a80bb266c488afa3f560fdd130b9513c3a3cd5d0b0eee8777",
     "textureType": 2,
     "textureWidth": 64,
+    "textureHeight": 16
+  },
+  "misc/title_static/gFileSelNoFileToCopyIA4ENGTex": {
+    "hash": "ce5be9afadd95b256356d3089883f9255b2c3296c3d945d185f38661bf0d8e1a",
+    "textureType": 7,
+    "textureWidth": 128,
     "textureHeight": 16
   },
   "scenes/nonmq/Z2_LABO/Z2_LABOTLUT_00DA00": {
@@ -68621,14 +68813,14 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_wiz/gWizrobeBandTex": {
-    "hash": "1f21b74f80ad768fe6076af77bbf0a4ff5873e09b35362739cda82d9b4896729",
+  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_008540": {
+    "hash": "73fad3f63eb23ae1ba0aecba4bbbc4af488756d3f6477ae4b56e290c38d494ab",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_KAIZOKU/Z2_KAIZOKUTex_008540": {
-    "hash": "73fad3f63eb23ae1ba0aecba4bbbc4af488756d3f6477ae4b56e290c38d494ab",
+  "objects/object_wiz/gWizrobeBandTex": {
+    "hash": "1f21b74f80ad768fe6076af77bbf0a4ff5873e09b35362739cda82d9b4896729",
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
@@ -69569,6 +69761,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelSwitchIA4ENGTex": {
+    "hash": "5b84d26eef3fd7b8fd5e7caa0da5ebfb06f770a81b638ac3925d3196bd04173c",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
+  },
   "objects/object_mask_dancer/object_mask_dancer_Tex_001AC8": {
     "hash": "514fe2edcba185139705cfdfdb46f64d7af634fe573196ea989ab1e65352308f",
     "textureType": 4,
@@ -69580,6 +69778,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "misc/title_static/gFileSelFileInUseIA4ENGTex": {
+    "hash": "f8b95ddb86fa5e2e4c4f344589331ab4620559721dfafc8bfdd2412ed038f66c",
+    "textureType": 7,
+    "textureWidth": 128,
+    "textureHeight": 16
   },
   "objects/object_keikoku_obj/object_keikoku_obj_Tex_003278": {
     "hash": "52fc2c4943a196c34eaf55c45375235346c82828f821cefb03976a0b03c7696a",
@@ -76067,6 +76271,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "objects/gameplay_keep/flower_silver_tex.rgba16": {
+    "hash": "c0368ed83bd6c860f2f6832cfe72bb3fddad742275fdd885398789cf049f07cd",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
+  },
   "objects/object_zo/gZoraSkinTex": {
     "hash": "96db79349696b3e240f84390bf26696b7a1901666a5ae1f7f0c2dbc5d5a1b096",
     "textureType": 4,
@@ -76751,17 +76961,17 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "scenes/nonmq/Z2_LAST_ZORA/Z2_LAST_ZORATex_00DD40": {
-    "hash": "5c256570fe111985dd54558d26adb166b6af25654ad53e88d87705e001c50dfd",
-    "textureType": 4,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "misc/title_static/gFileSelFileInUseENGTex": {
     "hash": "fbb3e9edd66978bb911331a68cd60e28fb08ec834428241e09aa7d46ba63d64e",
     "textureType": 8,
     "textureWidth": 128,
     "textureHeight": 16
+  },
+  "scenes/nonmq/Z2_LAST_ZORA/Z2_LAST_ZORATex_00DD40": {
+    "hash": "5c256570fe111985dd54558d26adb166b6af25654ad53e88d87705e001c50dfd",
+    "textureType": 4,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "scenes/nonmq/Z2_SEA_BS/Z2_SEA_BSTex_004490": {
     "hash": "781787e61b4b546aa2f5e9144fbf595c6d9023833278befe956786023e6e5a38",
@@ -78172,6 +78382,12 @@
     "textureType": 3,
     "textureWidth": 64,
     "textureHeight": 64
+  },
+  "objects/gameplay_keep/flower_bronze_tex.rgba16": {
+    "hash": "508a0b27a9b59f9ac26f93c8fcaf02861ff2ff803bc0cedf1c2b1845eaf86299",
+    "textureType": 2,
+    "textureWidth": 16,
+    "textureHeight": 16
   },
   "objects/object_dog/gDogFur4Tex": {
     "hash": "15271d6879b7d5f19f175638d33be8e7caab0dfc447c7b39c2d0435243d2e375",
@@ -80207,6 +80423,12 @@
     "textureWidth": 128,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelFileEmptyIA4ENGTex": {
+    "hash": "5ae8df765ac15e60ca62a26c83b8fac7562f1c65d086d7e202fe9137b978960b",
+    "textureType": 7,
+    "textureWidth": 128,
+    "textureHeight": 16
+  },
   "objects/object_ma1/gRomaniSleepingHandTex": {
     "hash": "49034b4e1897486a1c28b245f1ff47354cabcc44fc1a1f31676e8ec42f945843",
     "textureType": 4,
@@ -80873,14 +81095,14 @@
     "textureWidth": 48,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji905CTex": {
-    "hash": "f4155dc4318bf10021366d652088b8af0413c8aa09599dba46098b3199f80f6f",
+  "kanji/gMsgKanji90CDTex": {
+    "hash": "f7a279391af5919457c5c353edf1e500df181c3c9f19134662c3b3b4609add85",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "kanji/gMsgKanji90CDTex": {
-    "hash": "f7a279391af5919457c5c353edf1e500df181c3c9f19134662c3b3b4609add85",
+  "kanji/gMsgKanji905CTex": {
+    "hash": "f4155dc4318bf10021366d652088b8af0413c8aa09599dba46098b3199f80f6f",
     "textureType": 5,
     "textureWidth": 16,
     "textureHeight": 16
@@ -82343,6 +82565,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "misc/title_static/gFileSelHoldIA4ENGTex": {
+    "hash": "8bb081b2311a967faf6ac589854c667eb07bbc3902868f79ea25a9e9b5e6991e",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
+  },
   "kanji/gMsgKanji9444Tex": {
     "hash": "87d040f52b7944b0502660ac73238b64d38e9756455982cf55628ea6270a1f3a",
     "textureType": 5,
@@ -82438,6 +82666,12 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
+  },
+  "misc/title_static/gFileSelMonoIA4ENGTex": {
+    "hash": "20609d09fed6769298412723e7d154a25cb385f2fb182ddaa4b35e1e134bc3d8",
+    "textureType": 7,
+    "textureWidth": 48,
+    "textureHeight": 16
   },
   "kanji/gMsgKanji865DTategakiHyphenTex": {
     "hash": "e041a1e38e41038d932608f6b19ec9d38ea5fa76b346960279665fd5a270740d",
