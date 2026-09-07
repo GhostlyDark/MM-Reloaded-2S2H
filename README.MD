@@ -1,11 +1,13 @@
+**Development has moved to:** https://github.com/GhostlyDark/MM-Reloaded
+
 # MM Reloaded (2S2H)
-Majora's Mask Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/MM-Reloaded), [Dolphin](https://github.com/GhostlyDark/MM-Reloaded-Dolphin) and 2 Ship 2 Harkinian.
+Majora's Mask Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/MM-Reloaded), [Dolphin](https://github.com/GhostlyDark/MM-Reloaded-Dolphin), Recomp (rt64) and 2 Ship 2 Harkinian.
 
 ![](/mm-reloaded-2s2h.jpg)
 
 
 ## How to use O2R files
-Requires 2Ship `v3.0.0` or newer. O2R files go into the `mods` directory. The order in which mods are loaded can be modified by changing file names. Release files have the `alt/` path prepended, which requires unhiding the menu pressing `Escape` and enabling `Use Alternate Assets` while in-game. Alternatively, press `Tab` to toggle the textures.
+Requires 2Ship `v5.0.0` or newer. O2R files go into the `mods` directory. The order in which mods are loaded can be modified by changing file names. Release files have the `alt/` path prepended, which requires unhiding the menu pressing `Escape` and enabling `Use Alternate Assets` while in-game. Alternatively, press `Tab` to toggle the textures.
 
 
 ## Convert textures from PNG source
